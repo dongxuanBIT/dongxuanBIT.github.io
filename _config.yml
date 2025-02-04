@@ -40,7 +40,6 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Dongxuan-He"
   scopus           : # URL
-  IEEE             : "https://ieeexplore.ieee.org/author/37086118287"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
