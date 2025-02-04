@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "何东轩"
+title: "何东轩 (Dongxuan He)"
 author_profile: true
 redirect_from: 
   - /about/
