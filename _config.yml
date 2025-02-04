@@ -21,10 +21,10 @@ repository               : "zishenliu729/dongxuan_he.github.io "
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zishen.png"
-  name             : "Dongxuan He (何东轩)"
+  avatar           : "dongxuan_he.png"
+  name             : "何东轩 (Dongxuan He)"
   pronouns         : # example: "she/her"  
-  bio              : "Beijing Institute of Technology"
+  bio              : "北京理工大学"
   location         : 
   employer         : 
   uri              : 
