@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "default"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Dongxuan He (何东轩)"
@@ -24,9 +25,9 @@ author:
   avatar           : "zishen.png"
   name             : "Dongxuan He (何东轩)"
   pronouns         : # example: "she/her"  
-  bio              : "Beijing Institute of Technology"
+  bio              : 
   location         : "China Beijing"
-  employer         : 
+  employer         : "Beijing Institute of Technology"
   uri              : https://dongxuan_he.github.io/
   email            : "dongxuan_he@bit.edu.cn" 
 
