@@ -8,10 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Homepage"
+title                    : "Dongxuan He (何东轩) / Homepage"
 title_separator          : "-"
-name                     : &name "Dongxuan He (何东轩)"
+name                     : &name "Dongxuan He"
 description              : &description "personal description"
 url                      : https://dongxuan_he.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
