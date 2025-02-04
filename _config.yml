@@ -16,6 +16,7 @@ url                      : https://zishenliu729.github.io/dongxuan_he.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zishenliu729/dongxuan_he.github.io "
 words_per_minute         : 160
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -24,7 +25,7 @@ author:
   avatar           : "Dongxuan-He.png"
   name             : "何东轩"
   pronouns         : # example: "she/her"  
-  bio              : "北京理工大学\\信息与电子学院"
+  bio              : "北京理工大学"
   location         : 
   employer         : 
   uri              : 
