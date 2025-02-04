@@ -12,7 +12,7 @@ title                    : "Dongxuan He (何东轩) / Homepage"
 title_separator          : "-"
 name                     : &name "Dongxuan He"
 description              : &description "personal description"
-url                      : https://dongxuan_he.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://zishenliu729.github.io/dongxuan_he.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zishenliu729/dongxuan_he.github.io "
 
@@ -27,7 +27,7 @@ author:
   bio              : "Beijing Institute of Technology"
   location         : "China Beijing"
   employer         : "Beijing Institute of Technology"
-  uri              : https://zishenliu729/dongxuan_he.github.io/
+  uri              : https://zishenliu729.github.io/dongxuan_he.github.io/
   email            : "dongxuan_he@bit.edu.cn" 
 
   # Academic websites
