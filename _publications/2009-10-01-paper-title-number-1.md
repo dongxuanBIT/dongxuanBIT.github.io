@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about utilizing machine learning in enhancing physical layer security in multi-input multi-output multi-antenna-eavesdropper wiretap channels.'
 date: 2018-02-14
 venue: 'IEEE Wireless Communications Letters'
-paperurl: 'https://github.com/zishenliu729.github.io/dongxuan_he.github.io/files/paper_wcl1.pdf'
+paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/paper_wcl1.pdf'
 citation: 'D. He, C. Liu, T. Q. S. Quek, and H. Wang, “Transmit antenna selection in MIMO wiretap channels: A machine learning approach,” IEEE Wireless Commun. Lett., vol. 7, no. 4, pp. 634–637, Aug. 2018.'
 ---
 
