@@ -2,8 +2,8 @@
 title: "Secure routing in multihop ad-hoc networks with srr-based reinforcement learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-02-17-WCL-Secure routing in multihop ad-hoc networks with srr-based reinforcement learning-number-6
-excerpt: 'This paper is about aa reinforcement learning-assisted secure routing methodology for multihop ad-hoc networks in the presence of multiple eavesdroppers.'
+permalink: /publication/2022-02-17-WCL-Secure routing in multihop ad-hoc networks with srr-based reinforcement learning-number-7
+excerpt: 'This paper is about a reinforcement learning-assisted secure routing methodology for multihop ad-hoc networks in the presence of multiple eavesdroppers.'
 date: 2022-02-17
 venue: 'IEEE Wireless Communications Letters'
 paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Secure_Routing_in_Multihop_Ad-Hoc_Networks_With_SRR-Based_Reinforcement_Learning.pdf'
