@@ -1,8 +1,8 @@
 ---
-title: "Learning-Based_Wireless_Powered_Secure_Transmission"
+title: "Learning-Based Wireless Powered Secure Transmission"
 collection: publications
 category: manuscripts
-permalink: /publications/2019-04-09-WCL-Learning-Based_Wireless_Powered_Secure_Transmission-number-2.md
+permalink: /publications/2019-04-09-WCL-Learning-Based_Wireless_Powered_Secure_Transmission-number-2
 excerpt: 'This paper is about a learning-based wireless powered secure transmission, in which a source utilizes energy harvested from a power beacon to communicate with a legitimate receiver, in the presence of an eavesdropper.'
 date: 2019-04-09
 venue: 'IEEE Wireless Communications Letters'
