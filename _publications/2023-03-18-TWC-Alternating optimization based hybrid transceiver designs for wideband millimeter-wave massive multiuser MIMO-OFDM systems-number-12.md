@@ -1,0 +1,14 @@
+---
+title: "Alternating optimization based hybrid transceiver designs for wideband millimeter-wave massive multiuser MIMO-OFDM systems"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-03-18-TWC-Alternating optimization based hybrid transceiver designs for wideband millimeter-wave massive multiuser MIMO-OFDM systems-number-12
+excerpt: 'This paper is about several hybrid transceiver designs in wideband mmWave massive multiuser MIMO-OFDM systems for maximizing the spectral efficiency.'
+date: 2023-12-12
+venue: 'IEEE Transactions on Wireless Communications'
+paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Alternating_Optimization_Based_Hybrid_Transceiver_Designs_for_Wideband_Millimeter-Wave_Massive_Multiuser_MIMO-OFDM_Systems.pdf'
+citation: 'M. Yuan, H. Wang, H. Yin, and D. He, &quot;Alternating optimization based hybrid transceiver designs for wideband millimeter-wave massive multiuser MIMO-OFDM systems,&quot; <i>IEEE Trans. Wireless Commun.</i>, vol. 22, no. 12, pp. 9201–9217, Dec. 2023.'
+
+---
+
+Hybrid precoding has been considered as a promising technology for millimeter-wave (mmWave) massive multiple-input multiple-output (MIMO) systems, since it can achieve a tradeoff between system performance and hardware complexity. However, the optimal solution is difficult to obtain due to the coupling between analog precoder and digital precoder, as well as the non-convex constant modulus constraint, especially in multiuser scenarios. In this paper, we investigate several hybrid transceiver designs in wideband mmWave massive multiuser MIMO-OFDM systems for maximizing the spectral efficiency. Firstly, we propose two joint designs of hybrid precoder and combiner based on alternating optimization. Specifically, the intractable spectral efficiency maximization problem is reformulated as an equivalent weighted minimum mean square error (WMMSE) problem. To design the analog precoder and combiner with non-convex constant modulus constraint, we develop two efficient algorithms based on majorization minimization (MM) and element-wise block coordinate descent (EBCD) techniques, respectively. Secondly, to reduce the computational complexity, we propose a discrete Fourier transform (DFT) codebook based scheme, which can enhance the beamforming gain and mitigate the inter-beam interference. Thirdly, the convergence and complexity analysis are presented. The proposed two alternating optimization algorithms are guaranteed to converge to locally optimal solutions. Simulation results demonstrate that the proposed hybrid transceiver designs achieve significant performance gains over state-of-the-art schemes.
