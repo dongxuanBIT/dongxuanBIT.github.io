@@ -2,7 +2,7 @@
 title: "DeepAntiJam: Stackelberg game-oriented secure transmission via deep reinforcement learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-09-11-CL-DeepAntiJam: Stackelberg game-oriented secure transmission via deep reinforcement learning-number-9
+permalink: /publication/2022-09-11-CL-DeepAntiJam_Stackelberg game-oriented secure transmission via deep reinforcement learning-number-9
 excerpt: 'This paper is about a deep reinforcement learning-assisted anti-jamming transmission scheme (DeepAntiJam) to guarantee reliable and creditable transmission in the presence of one smart jammer and multiple eavesdroppers.'
 date: 2022-09-11
 venue: 'IEEE Communications Letters'
