@@ -1,0 +1,13 @@
+---
+title: "Deep learning assisted calibrated beam training for millimeter-wave communication systems"
+collection: publications
+category: manuscripts
+permalink: /publication/2021-07-21-WCL-Deep learning assisted calibrated beam training for millimeter-wave communication systems-number-4
+excerpt: 'This paper is about a wide beam based training approach to calibrate the narrow beam direction according to the channel power leakage.'
+date: 2021-07-21
+venue: 'IEEE Transactions on Communications'
+paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Deep_Learning_Assisted_Calibrated_Beam_Training_for_Millimeter-Wave_Communication_Systems.pdf'
+citation: 'K. Ma, D. He, H. Sun, Z. Wang, and S. Chen, “Deep learning assisted calibrated beam training for millimeter-wave communication systems,” IEEE Trans. Commun., vol. 69, no. 10, pp. 6706–6721, Oct. 2021.'
+---
+
+Huge overhead of beam training imposes a significant challenge in millimeter-wave (mmWave) wireless communications. To address this issue, in this paper, we propose a wide beam based training approach to calibrate the narrow beam direction according to the channel power leakage. To handle the complex nonlinear properties of the channel power leakage, deep learning is utilized to predict the optimal narrow beam directly. Specifically, three deep learning assisted calibrated beam training schemes are proposed. The first scheme adopts convolution neural network to implement the prediction based on the instantaneous received signals of wide beam training. We also perform the additional narrow beam training based on the predicted probabilities for further beam direction calibrations. However, the first scheme only depends on one wide beam training, which lacks the robustness to noise. To tackle this problem, the second scheme adopts long-short term memory (LSTM) network for tracking the movement of users and calibrating the beam direction according to the received signals of prior beam training, in order to enhance the robustness to noise. To further reduce the overhead of wide beam training, our third scheme, an adaptive beam training strategy, selects partial wide beams to be trained based on the prior received signals. Two criteria, namely, optimal neighboring criterion and maximum probability criterion, are designed for the selection. Furthermore, to handle mobile scenarios, auxiliary LSTM is introduced to calibrate the directions of the selected wide beams more precisely. Simulation results demonstrate that our proposed schemes achieve significantly higher beamforming gain with smaller beam training overhead compared with the conventional and existing deep-learning based counterparts.
