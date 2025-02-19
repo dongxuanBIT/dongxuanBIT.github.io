@@ -2,7 +2,7 @@
 title: "Deep learning assisted calibrated beam training for millimeter-wave communication systems"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-07-21-WCL-Deep learning assisted calibrated beam training for millimeter-wave communication systems-number-4
+permalink: /publication/2021-07-21-TCOM-Deep learning assisted calibrated beam training for millimeter-wave communication systems-number-4
 excerpt: 'This paper is about a wide beam based training approach to calibrate the narrow beam direction according to the channel power leakage.'
 date: 2021-07-21
 venue: 'IEEE Transactions on Communications'
