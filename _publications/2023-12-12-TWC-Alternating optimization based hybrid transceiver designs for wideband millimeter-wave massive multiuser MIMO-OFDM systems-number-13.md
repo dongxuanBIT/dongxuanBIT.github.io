@@ -2,7 +2,7 @@
 title: "Alternating optimization based hybrid transceiver designs for wideband millimeter-wave massive multiuser MIMO-OFDM systems"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-03-18-TWC-Alternating optimization based hybrid transceiver designs for wideband millimeter-wave massive multiuser MIMO-OFDM systems-number-12
+permalink: /publication/2023-12-12-TWC-Alternating optimization based hybrid transceiver designs for wideband millimeter-wave massive multiuser MIMO-OFDM systems-number-13
 excerpt: 'This paper is about several hybrid transceiver designs in wideband mmWave massive multiuser MIMO-OFDM systems for maximizing the spectral efficiency.'
 date: 2023-12-12
 venue: 'IEEE Transactions on Wireless Communications'
