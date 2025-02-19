@@ -2,7 +2,7 @@
 title: " UAV-Assisted Satellite-Terrestrial Secure Communication Using Large-Scale Antenna Array With One-Bit ADCs/DACs"
 collection: publications
 category: manuscripts
-permalink:/publication/2023-01-16-TCOM-UAV-Assisted Satellite-Terrestrial Secure Communication Using Large-Scale Antenna Array With One-Bit ADCs-number-10
+permalink: /publication/2023-01-16-TCOM-UAV-Assisted Satellite-Terrestrial Secure Communication Using Large-Scale Antenna Array With One-Bit ADCs-number-10
 excerpt: 'This paper is about a novel architecture with one-bit analog-to-digital converters (ADCs) and one-bit digital-to-analog converters (DACs) for UAV-assisted satellite-terrestrial communication systems using large-scale antenna array.'
 date: 2023-01-16
 venue: 'IEEE Transactions on Communications'
