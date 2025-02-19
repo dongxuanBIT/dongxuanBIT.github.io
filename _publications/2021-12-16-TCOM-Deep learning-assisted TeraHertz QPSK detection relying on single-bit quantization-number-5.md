@@ -2,7 +2,7 @@
 title: "Deep learning-assisted TeraHertz QPSK detection relying on single-bit quantization"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-07-21-TCOM-Deep learning-assisted TeraHertz QPSK detection relying on single-bit quantization-number-5
+permalink: /publication/2021-12-16-TCOM-Deep learning-assisted TeraHertz QPSK detection relying on single-bit quantization-number-5
 excerpt: 'This paper is about a deep learning-assisted THz receiver to address imperfections of THz devices and single-bit quantization, including in-phase/quadrature-phase imbalance, phase noise and nonlinearity.'
 date: 2021-12-16
 venue: 'IEEE Transactions on Communications'

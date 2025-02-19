@@ -2,9 +2,9 @@
 title: "Deep learning assisted calibrated beam training for millimeter-wave communication systems"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-07-21-TCOM-Deep learning assisted calibrated beam training for millimeter-wave communication systems-number-4
+permalink: /publication/2021-10-18-TCOM-Deep learning assisted calibrated beam training for millimeter-wave communication systems-number-4
 excerpt: 'This paper is about a wide beam based training approach to calibrate the narrow beam direction according to the channel power leakage.'
-date: 2021-07-21
+date: 2021-10-18
 venue: 'IEEE Transactions on Communications'
 paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Deep_Learning_Assisted_Calibrated_Beam_Training_for_Millimeter-Wave_Communication_Systems.pdf'
 citation: 'K. Ma, D. He, H. Sun, Z. Wang, and S. Chen, “Deep learning assisted calibrated beam training for millimeter-wave communication systems,” IEEE Trans. Commun., vol. 69, no. 10, pp. 6706–6721, Oct. 2021.'
