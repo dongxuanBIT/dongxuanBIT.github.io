@@ -2,7 +2,7 @@
 title: "A Lightweight and Efficient Key Generation Scheme From OFDM Subcarriers’ Channel Responses"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-08-CL-A Lightweight and Efficient Key Generation Scheme From OFDM Subcarriers’ Channel Responses-number-18
+permalink: /publication/2024-11-08-WCL-A Lightweight and Efficient Key Generation Scheme From OFDM Subcarriers’ Channel Responses-number-18
 excerpt: 'This paper is about a physical layer secret key generation (PLSKG) protocol utilizing the amplitude of channel frequency response (CFR) of Orthogonal Frequency Division Multiplexing (OFDM) subcarriers.'
 date: 2024-11-08
 venue: 'IEEE Communications Letters'
