@@ -6,7 +6,7 @@ permalink: /publication/2023-08-10-ICCC-BiLSTM-Based Frame Synchronization for O
 excerpt: 'This paper is about two learning-empowered frame synchronization methods.'
 date: 2023-08-10
 venue: '2023 IEEE/CIC International Conference on Communications in China (ICCC)'
-paperurl: 'http://zishenliu729/dongxuan_he.github.io/files/BiLSTM-Based_Frame_Synchronization_for_Overlapped_S-AIS_Signals_A_Learning-Empowered_Approach.pdf'
+paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/BiLSTM-Based_Frame_Synchronization_for_Overlapped_S-AIS_Signals_A_Learning-Empowered_Approach.pdf'
 citation: 'T. Yang, D. He, Z. Lu, H. Wang, H. Zhao and Z. Wu, &quot;BiLSTM-Based Frame Synchronization for Overlapped S-AIS Signals: A Learning-Empowered Approach,&quot; in <i>Proc. 2023 IEEE/CIC International Conference on Communications in China (ICCC)</i>, Dalian, China, 2023, pp. 1-6.'
 ---
 

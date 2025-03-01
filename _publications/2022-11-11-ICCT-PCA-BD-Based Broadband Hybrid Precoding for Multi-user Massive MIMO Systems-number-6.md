@@ -6,7 +6,7 @@ permalink: /publication/2022-11-11-ICCT-PCA-BD-Based Broadband Hybrid Precoding 
 excerpt: 'This paper is about a principal component analysis (PCA) and block diagonalization (BD) based precoding method.'
 date: 2022-11-11
 venue: '2022 IEEE 22nd International Conference on Communication Technology (ICCT)'
-paperurl: 'http://zishenliu729/dongxuan_he.github.io/files/PCA-BD-Based_Broadband_Hybrid_Precoding_for_Multi-user_Massive_MIMO_Systems.pdf'
+paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/PCA-BD-Based_Broadband_Hybrid_Precoding_for_Multi-user_Massive_MIMO_Systems.pdf'
 citation: 'T. Zhu, Y. Sun, D. He and H. Wang, &quot;PCA-BD-Based Broadband Hybrid Precoding for Multi-user Massive MIMO Systems,&quot; in <i>Proc. 2022 IEEE 22nd International Conference on Communication Technology (ICCT)</i>, Nanjing, China, Nov. 2022, pp. 184-189.'
 ---
 

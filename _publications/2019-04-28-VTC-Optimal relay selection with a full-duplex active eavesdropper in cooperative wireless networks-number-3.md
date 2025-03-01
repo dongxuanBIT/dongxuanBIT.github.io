@@ -6,7 +6,7 @@ permalink: /publication/2019-04-28-VTC-Optimal relay selection with a full-duple
 excerpt: 'This paper is about the physical layer security of a dual-hop cooperative network in the presence of a full-duplex active eavesdropper, which can overhear the confidential signals and transmit jamming signals simultaneously.'
 date: 2019-04-28
 venue: '2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring)'
-paperurl: 'http://zishenliu729/dongxuan_he.github.io/files/Optimal_Relay_Selection_with_a_Full-Duplex_Active_Eavesdropper_in_Cooperative_Wireless_Networks.pdf'
+paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Optimal_Relay_Selection_with_a_Full-Duplex_Active_Eavesdropper_in_Cooperative_Wireless_Networks.pdf'
 citation: 'H. Zhou, D. He, H. Wang and D. Yang, &quot;Optimal Relay Selection with a Full-Duplex Active Eavesdropper in Cooperative Wireless Networks,&quot; in <i>Proc. IEEE 89th Veh. Technol. Conf. (VTC-Spring)</i>, Kuala Lumpur, Malaysia, 2019, pp. 1–5.'
 ---
 
