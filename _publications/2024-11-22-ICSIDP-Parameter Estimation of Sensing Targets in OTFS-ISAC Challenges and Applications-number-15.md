@@ -2,7 +2,7 @@
 title: "Parameter Estimation of Sensing Targets in OTFS-ISAC: Challenges and Applications"
 collection: publications
 category: conferences
-permalink: /publication/2024-11-22-ICSIDP-Parameter Estimation of Sensing Targets in OTFS-ISAC: Challenges and Applications-number-15
+permalink: /publication/2024-11-22-ICSIDP-Parameter Estimation of Sensing Targets in OTFS-ISAC Challenges and Applications-number-15
 excerpt: 'This paper is about the parameter estimation problem of sensing targets in the OTFS-ISAC system.'
 date: 2024-11-22
 venue: '2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)'
