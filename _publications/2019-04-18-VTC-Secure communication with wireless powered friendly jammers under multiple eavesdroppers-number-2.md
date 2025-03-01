@@ -3,7 +3,7 @@ title: "Secure communication with wireless powered friendly jammers under multip
 collection: publications
 category: conferences
 permalink: /publication/2019-04-18-VTC-Secure communication with wireless powered friendly jammers under multiple eavesdroppers-number-2
-excerpt: 'This paper is about a secure communication scheme, where a source transmits information to the legitimate receiver in the presence of multiple eavesdroppers'
+excerpt: 'This paper is about a secure communication scheme, where a source transmits information to the legitimate receiver in the presence of multiple eavesdroppers.'
 date: 2019-04-18
 venue: '2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring)'
 paperurl: 'http://zishenliu729/dongxuan_he.github.io/files/Secure_Communication_with_Wireless_Powered_Friendly_Jammers_under_Multiple_Eavesdroppers.pdf'
