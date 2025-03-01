@@ -2,7 +2,7 @@
 title: "UAV-Assisted Legitimate Wireless Surveillance: Performance Analysis and Optimization"
 collection: publications
 category: conferences
-permalink: /publication/2024-10-18-ICUS-UAV-Assisted Legitimate Wireless Surveillance: Performance Analysis and Optimization-number-12
+permalink: /publication/2024-10-18-ICUS-UAV-Assisted Legitimate Wireless Surveillance Performance Analysis and Optimization-number-12
 excerpt: 'This paper is about a wireless legitimate surveillance system, where a multi-antenna legitimate monitor unmanned aerial vehicle (UAV) aims to eavesdrop a suspicious communication link with the help of a jammer UAV.'
 date: 2024-10-18
 venue: '2024 IEEE International Conference on Unmanned Systems (ICUS)'
