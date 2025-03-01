@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/2023-GLAC.png'>"
+title: "2023卫星导航定位科技进步一等奖"
+excerpt: "2023卫星导航定位科技进步一等奖（序3）<br/><img src='/images/2023-GLAC.png'>"
 collection: awards
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+融合北斗的多场景火灾监测预测与救援调度关键技术 2023年09月
