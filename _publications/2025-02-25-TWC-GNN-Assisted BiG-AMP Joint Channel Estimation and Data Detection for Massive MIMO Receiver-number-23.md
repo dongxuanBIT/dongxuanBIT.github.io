@@ -2,7 +2,7 @@
 title: "GNN-Assisted BiG-AMP: Joint Channel Estimation and Data Detection for Massive MIMO Receiver"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-02-25-TWC-GNN-Assisted BiG-AMP: Joint Channel Estimation and Data Detection for Massive MIMO Receiver-number-23
+permalink: /publication/2025-02-25-TWC-GNN-Assisted BiG-AMP Joint Channel Estimation and Data Detection for Massive MIMO Receiver-number-23
 excerpt: 'This paper is about a graph neural network (GNN)-assisted bilinear inference approach to enhance the receiver performance of the MIMO system through message passing-based joint channel estimation and data detection (JCD).'
 date: 2025-02-27
 venue: 'IEEE Transactions on Wireless Communication'
