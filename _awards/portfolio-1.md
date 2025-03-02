@@ -1,6 +1,6 @@
 ---
 title: "2023卫星导航定位科技进步一等奖（序3）"
-excerpt: "融合北斗的多场景火灾监测预测与救援调度关键技术<br/><img src='/images/2023-中国卫星导航定位协会-卫星导航定位科技进步奖-一等奖(序3).jpg'>"
+excerpt: "融合北斗的多场景火灾监测预测与救援调度关键技术<br/><img src='/images/2023-GLAC.jpg'>"
 collection: awards
 ---
 
