@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/2024-中国指挥与控制学会-CICC科学技术进步奖（技术发明类）-一等奖(序7).png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='../images/2024-zgfmxh-1st(th2).jpg'>"
 collection: awards
 ---
 
