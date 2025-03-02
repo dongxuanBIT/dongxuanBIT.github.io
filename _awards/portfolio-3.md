@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='../images/2024-zgfmxh-1st(th2).jpg'>"
+title: "2024-中国发明协会发明创业创新奖一等奖（序2）"
+excerpt: "面向工业巡检的无人机感传控关键技术与应用<br/><img src='../images/2024-zgfmxh-1st(th2).jpg'>"
 collection: awards
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
