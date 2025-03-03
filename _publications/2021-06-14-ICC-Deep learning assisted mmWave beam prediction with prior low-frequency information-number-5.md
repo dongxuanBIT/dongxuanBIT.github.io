@@ -6,7 +6,7 @@ permalink: /publication/2021-06-14-ICC-Deep learning assisted mmWave beam predic
 excerpt: 'This paper is about beam tracking with prior low-frequency information to predict the optimal mmWave beam, where deep learning is adopted to enhance the prediction accuracy.'
 date: 2021-06-14
 venue: '2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring)'
-paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Optimal_Relay_Selection_with_a_Full-Duplex_Active_Eavesdropper_in_Cooperative_Wireless_Networks.pdf'
+paperurl: 'http://dongxuanBeijing.github.io/files/Optimal_Relay_Selection_with_a_Full-Duplex_Active_Eavesdropper_in_Cooperative_Wireless_Networks.pdf'
 citation: 'K. Ma, D. He, H. Sun, and Z. Wang, &quot;Deep learning assisted mmWave beam prediction with prior low-frequency information,&quot; in <i>Proc. IEEE Int. Conf. Commun.</i>, Jun. 2021, pp. 1–6.'
 ---
 

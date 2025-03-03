@@ -6,7 +6,7 @@ permalink: /publication/2022-02-17-WCL-Secure routing in multihop ad-hoc network
 excerpt: 'This paper is about a reinforcement learning-assisted secure routing methodology for multihop ad-hoc networks in the presence of multiple eavesdroppers.'
 date: 2022-02-17
 venue: 'IEEE Wireless Communications Letters'
-paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Secure_Routing_in_Multihop_Ad-Hoc_Networks_With_SRR-Based_Reinforcement_Learning.pdf'
+paperurl: 'http://dongxuanBeijing.github.io/files/Secure_Routing_in_Multihop_Ad-Hoc_Networks_With_SRR-Based_Reinforcement_Learning.pdf'
 citation: 'J. Lu, D. He, and Z. Wang, &quot;Secure routing in multihop ad-hoc networks with SRR-based reinforcement learning,&quot; <i>IEEE Wireless Commun. Lett.</i>, vol. 11, no. 2, pp. 362–366, Feb. 2022.'
 ---
 

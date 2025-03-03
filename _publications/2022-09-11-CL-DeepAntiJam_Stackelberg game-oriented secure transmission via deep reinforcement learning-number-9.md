@@ -6,7 +6,7 @@ permalink: /publication/2022-09-11-CL-DeepAntiJam_Stackelberg game-oriented secu
 excerpt: 'This paper is about a deep reinforcement learning-assisted anti-jamming transmission scheme (DeepAntiJam) to guarantee reliable and creditable transmission in the presence of one smart jammer and multiple eavesdroppers.'
 date: 2022-09-11
 venue: 'IEEE Communications Letters'
-paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/DeepAntiJam_Stackelberg_Game-Oriented_Secure_Transmission_via_Deep_Reinforcement_Learning.pdf'
+paperurl: 'http://dongxuanBeijing.github.io/files/DeepAntiJam_Stackelberg_Game-Oriented_Secure_Transmission_via_Deep_Reinforcement_Learning.pdf'
 citation: 'D. He and Z. Wang, &quot;Deep learning-assisted demodulation for terahertz communications under hybrid distortions,&quot; <i>IEEE Commun. Lett.</i>, vol. 26, no. 2, pp. 325–329, Feb. 2022.'
 ---
 

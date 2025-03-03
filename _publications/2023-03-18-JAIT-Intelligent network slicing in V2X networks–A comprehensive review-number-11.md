@@ -6,7 +6,7 @@ permalink: /publication/2023-03-18-JAIT-Intelligent network slicing in V2X netwo
 excerpt: 'This paper is about a review of intelligent network slicing in V2X networks.'
 date: 2023-03-18
 venue: 'Journal of Artificial Intelligence and Technology'
-paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Intelligent Network Slicing in V2X Networks – A Comprehensive Review.pdf'
+paperurl: 'http://dongxuanBeijing.github.io/files/Intelligent_Network_Slicing_in_V2X_Networks_A_Comprehensive_Review.pdf
 citation: 'M. S. Abood, H. Wang, D. He, Z. Kang and A. Kawoya, &quot;Intelligent network slicing in V2X networks–A comprehensive review,&quot; <i>J. Artif. Intell. Technol.</i>, vol. 3, no. 2, pp. 78–84, Mar. 2023.'
 ---
 

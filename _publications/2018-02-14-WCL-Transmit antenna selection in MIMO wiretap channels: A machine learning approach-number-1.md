@@ -6,7 +6,7 @@ permalink:/publication/2018-02-14-WCL-Transmit antenna selection in MIMO wiretap
 excerpt: 'This paper is about utilizing machine learning in enhancing physical layer security in multi-input multi-output multi-antenna-eavesdropper wiretap channels.'
 date: 2018-02-14
 venue: 'IEEE Wireless Communications Letters'
-paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Transmit_Antenna_Selection_in_MIMO_Wiretap_Channels_A_Machine_Learning_Approach.pdf'
+paperurl: 'http://dongxuanBeijing.github.io/files/Transmit_Antenna_Selection_in_MIMO_Wiretap_Channels_A_Machine_Learning_Approach.pdf'
 citation: 'D. He, C. Liu, T. Q. S. Quek, and H. Wang, &quot;Transmit antenna selection in MIMO wiretap channels: A machine learning approach,&quot; <i>IEEE Wireless Commun. Lett.</i>, vol. 7, no. 4, pp. 634–637, Aug. 2018.'
 ---
 
