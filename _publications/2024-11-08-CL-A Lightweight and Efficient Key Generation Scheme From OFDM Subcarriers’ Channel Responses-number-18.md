@@ -6,7 +6,7 @@ permalink: /publication/2024-11-08-WCL-A Lightweight and Efficient Key Generatio
 excerpt: 'This paper is about a physical layer secret key generation (PLSKG) protocol utilizing the amplitude of channel frequency response (CFR) of Orthogonal Frequency Division Multiplexing (OFDM) subcarriers.'
 date: 2024-11-08
 venue: 'IEEE Communications Letters'
-paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Design_of_Precoded_Waveform_With_Low_PAPR_for_High_Mobility_Communication_Systems.pdf'
+paperurl: 'http://dongxuanBeijing.github.io/files/Design_of_Precoded_Waveform_With_Low_PAPR_for_High_Mobility_Communication_Systems.pdf'
 citation: 'A. F. Kawoya, H. Wang, and D. He, &quot;A Lightweight and Efficient Key Generation Scheme From OFDM Subcarriers’ Channel Responses,&quot; <i>IEEE Wireless Commun. Lett.</i>, vol. 13, no. 11, pp. 3177–3181, Nov. 2024.'
 ---
 

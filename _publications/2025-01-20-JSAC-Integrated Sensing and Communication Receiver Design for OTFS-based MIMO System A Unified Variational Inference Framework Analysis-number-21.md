@@ -6,7 +6,7 @@ permalink: /publication/2025-01-20-JSAC-Integrated Sensing and Communication Rec
 excerpt: 'This paper is about a novel integrated sensing and communication (ISAC) receiver design framework for OTFS-based MIMO systems from a unified perspective of variational inference.'
 date: 2025-01-20
 venue: 'IEEE Journal on Selected Areas in Communications'
-paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Integrated_Sensing_and_Communication_Receiver_Design_for_OTFS-based_MIMO_System_A_Unified_Variational_Inference_Framework.pdf'
+paperurl: 'http://dongxuanBeijing.github.io/files/Integrated_Sensing_and_Communication_Receiver_Design_for_OTFS-based_MIMO_System_A_Unified_Variational_Inference_Framework.pdf'
 citation: 'Q. Yu, Z. Lu, D. He, and H. Wang, &quot;Integrated Sensing and Communication Receiver Design for OTFS-based MIMO System: A Unified Variational Inference Framework,&quot; <i>IEEE J. Sel. Areas Commun.</i>, Early Access, Jan. 2025.'
 ---
 

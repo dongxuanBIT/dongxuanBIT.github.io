@@ -6,7 +6,7 @@ permalink: /publication/2023-11-03-ACC-Design and Implementation of Spectrally E
 excerpt: 'This paper is about the design of SEFDM receiver, including sampling frequency synchronization (SFS), timing synchronization, phase recovery, and detector design.'
 date: 2023-11-03
 venue: 'IEEE Communications Letters '
-paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Design_and_Implementation_of_Spectrally_Efficient_Frequency_Division_Multiplexing_Receiver.pdf'
+paperurl: 'http://dongxuanBeijing.github.io/files/Design_and_Implementation_of_Spectrally_Efficient_Frequency_Division_Multiplexing_Receiver.pdf'
 citation: 'Y. Qi, T. Zhang, Y. Feng, Z. Qin and D. He, &quot;Design and Implementation of Spectrally Efficient Frequency Division Multiplexing Receiver,&quot; <i>IEEE Access</i>, vol. 11, pp. 121482–121491, Nov. 2023.'
 
 ---

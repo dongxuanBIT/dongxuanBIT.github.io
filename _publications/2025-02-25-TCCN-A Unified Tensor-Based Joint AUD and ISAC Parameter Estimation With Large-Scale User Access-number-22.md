@@ -6,7 +6,7 @@ permalink: /publication/2025-02-25-TCCN-A Unified Tensor-Based Joint AUD and ISA
 excerpt: 'This paper is about a unified tensor-based joint communication and sensing parameter estimation algorithm.'
 date: 2025-02-25
 venue: ' IEEE Transactions on Cognitive Communications and Networking'
-paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/A_Unified_Tensor-Based_Joint_AUD_and_ISAC_Parameter_Estimation_With_Large-Scale_User_Access.pdf'
+paperurl: 'http://dongxuanBeijing.github.io/files/A_Unified_Tensor-Based_Joint_AUD_and_ISAC_Parameter_Estimation_With_Large-Scale_User_Access.pdf'
 citation: 'T. Yang, D. He, H. Hou, H. Wang, H. Yin, Y. Huang, Z. Wang, and T. Q.S. Quek, &quot;A Unified Tensor-Based Joint AUD and ISAC Parameter Estimation With Large-Scale User Access,&quot; <i>IEEE Trans. Cogn. Commun. Netw.</i>, Early Access, Feb. 2025.'
 ---
 
