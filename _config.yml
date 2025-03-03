@@ -12,9 +12,9 @@ title                    : "主页"
 title_separator          : "-"
 name                     : &name "Dongxuan He"
 description              : &description "personal description"
-url                      : https://dongxuanBeijing/dongxuanBeijing.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://dongxuanBeijing.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zishenliu729/dongxuan_he.github.io "
+repository               : "dongxuanBeijing.github.io"
 words_per_minute         : 160
 
 # Site Author - The following control what appear as part of the author content on the side bar.
