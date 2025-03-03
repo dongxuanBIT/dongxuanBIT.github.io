@@ -6,7 +6,7 @@ permalink: /publication/2024-10-24-IOTJ-Enhanced Group-Based Chirp Spread Spectr
 excerpt: 'This paper is about two enhanced group-based CSS modulation schemes, named IQ-GCSS (in-phase and quadrature group-based CSS) and TDM-GCSS (time domain multiplexed group-based CSS), which can achieve much higher SE than the conventional LoRa modulation.'
 date: 2024-10-24
 venue: 'IEEE Internet of Things Journal'
-paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Enhanced_Group-Based_Chirp_Spread_Spectrum_Modulation_Design_and_Performance_Analysis.pdf'
+paperurl: 'http://dongxuanBeijing/dongxuanBeijing.github.io/files/Enhanced_Group-Based_Chirp_Spread_Spectrum_Modulation_Design_and_Performance_Analysis.pdf'
 citation: 'Q. Yu, H. Wang, D. He, and Z. Lu, &quot;Enhanced Group-Based Chirp Spread Spectrum Modulation: Design and Performance Analysis,&quot; <i>IEEE Internet Things J.</i>, Early Access, Oct. 2024.'
 ---
 

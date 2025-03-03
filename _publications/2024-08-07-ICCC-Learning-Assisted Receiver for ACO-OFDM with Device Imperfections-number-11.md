@@ -6,7 +6,7 @@ permalink: /publication/2024-08-07-ICCC-Learning-Assisted Receiver for ACO-OFDM 
 excerpt: 'This paper is about a learning-assisted receiver, where convolutional neural network (CNN) is adopted to demodulate the received signal with distortion.'
 date: 2024-08-07
 venue: '2024 IEEE/CIC International Conference on Communications in China (ICCC)'
-paperurl: 'http://zishenliu729.github.io/dongxuan_he.github.io/files/Learning-Assisted_Receiver_for_ACO-OFDM_with_Device_Imperfections.pdf'
+paperurl: 'http://dongxuanBeijing/dongxuanBeijing.github.io/files/Learning-Assisted_Receiver_for_ACO-OFDM_with_Device_Imperfections.pdf'
 citation: 'L. Li, H. Liu, T. Mao, D. He and H. Hou, &quot;Learning-Assisted Receiver for ACO-OFDM with Device Imperfections,&quot; in <i>Proc. 2024 IEEE/CIC International Conference on Communications in China (ICCC)</i>, Hangzhou, China, 2024, pp. 2012-2016.'
 ---
 
