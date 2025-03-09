@@ -14,7 +14,7 @@ redirect_from:
 <br>
 <p style="font-weight: 900;">【News】</p>
 <ol>
-    <li>第一项</li>
+    <li>博士生杨天成获得IEEE ICSIDP Best Paper Award。</li>
     <li>第二项</li>
     <li>第三项</li>
 </ol>
