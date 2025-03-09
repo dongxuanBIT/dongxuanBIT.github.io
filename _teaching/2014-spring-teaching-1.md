@@ -1,7 +1,7 @@
 ---
 title: "新一代通信技术及标准化"
 collection: teaching
-type: "研究生课程"
+type: "研究生课程（Postgraduate Course）"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01

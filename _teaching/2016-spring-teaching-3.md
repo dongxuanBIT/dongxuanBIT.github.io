@@ -1,7 +1,7 @@
 ---
 title: "数据通信与网络"
 collection: teaching
-type: "研究生课程"
+type: "本科生课程（Undergraduate Course）"
 permalink: /teaching/2016-spring-teaching-3
 venue: "University 1, Department"
 date: 2014-01-01
