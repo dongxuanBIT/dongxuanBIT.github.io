@@ -1,10 +1,10 @@
 ---
-title: "通信与网络技术前沿"
+title: "数据通信与网络"
 collection: teaching
 type: "研究生课程"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2016-spring-teaching-3
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2014-01-01
 location: "City, Country"
 ---
 
