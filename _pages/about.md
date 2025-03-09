@@ -25,8 +25,8 @@ redirect_from:
 <br>
 <p style="font-weight: 900;">【News】</p>
 <ol>
-    <li>团队获得IEEE 2024 ICSIDP Best Paper Award。</li>
-    <li>团队获得2024年中国指控学会科技进步（技术发明类）一等奖。</li>
-    <li>团队获得2024中国发明协会创业创新奖一等奖。</li>
-    <li>团队获得2024年中国卫星导航定位协会创新应用奖白金奖。</li>
+    <li>团队获得IEEE 2024 ICSIDP Best Paper Award</li>
+    <li>团队获得2024年中国指控学会科技进步（技术发明类）一等奖</li>
+    <li>团队获得2024中国发明协会创业创新奖一等奖</li>
+    <li>团队获得2024年中国卫星导航定位协会创新应用奖白金奖</li>
 </ol>
