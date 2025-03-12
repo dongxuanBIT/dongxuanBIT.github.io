@@ -6,7 +6,7 @@ permalink: /publication/2023-12-12-TWC-Alternating optimization based hybrid tra
 excerpt: 'This paper is about several hybrid transceiver designs in wideband mmWave massive multiuser MIMO-OFDM systems for maximizing the spectral efficiency.'
 date: 2023-12-12
 venue: 'IEEE Transactions on Wireless Communications'
-paperurl: 'http://dongxuanBeijing.github.io/files/Alternating_Optimization_Based_Hybrid_Transceiver_Designs_for_Wideband_Millimeter-Wave_Massive_Multiuser_MIMO-OFDM_Systems.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/Alternating_Optimization_Based_Hybrid_Transceiver_Designs_for_Wideband_Millimeter-Wave_Massive_Multiuser_MIMO-OFDM_Systems.pdf'
 citation: 'M. Yuan, H. Wang, H. Yin, and D. He, &quot;Alternating optimization based hybrid transceiver designs for wideband millimeter-wave massive multiuser MIMO-OFDM systems,&quot; <i>IEEE Trans. Wireless Commun.</i>, vol. 22, no. 12, pp. 9201–9217, Dec. 2023.'
 
 ---

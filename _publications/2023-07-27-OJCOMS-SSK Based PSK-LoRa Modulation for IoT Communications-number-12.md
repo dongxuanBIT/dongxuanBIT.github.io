@@ -6,7 +6,7 @@ permalink: /publication/2023-07-27-OJCOMS-SSK Based PSK-LoRa Modulation for IoT 
 excerpt: 'This paper is about SSK PSK-LoRa (slope-shift-keying and phase-shift-keying LoRa) modulation, which can achieve higher SE and better energy efficiency (EE) than the conventional LoRa modulation.'
 date: 2023-07-27
 venue: 'IEEE Open Journal of the Communications Society'
-paperurl: 'http://dongxuanBeijing.github.io/files/SSK-Based_PSK-LoRa_Modulation_for_IoT_Communications.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/SSK-Based_PSK-LoRa_Modulation_for_IoT_Communications.pdf'
 citation: 'Q. Yu, D. He, Z. Lu, and H. Wang, &quot;SSK Based PSK-LoRa Modulation for IoT Communications,&quot; <i>IEEE Open J. Commun. Soc.</i>, vol. 4, pp. 1487–1498, Jul. 2023.'
 
 ---

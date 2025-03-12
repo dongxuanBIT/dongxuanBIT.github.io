@@ -6,7 +6,7 @@ permalink: /publication/2023-01-16-TCOM-UAV-Assisted Satellite-Terrestrial Secur
 excerpt: 'This paper is about a novel architecture with one-bit analog-to-digital converters (ADCs) and one-bit digital-to-analog converters (DACs) for UAV-assisted satellite-terrestrial communication systems using large-scale antenna array.'
 date: 2023-01-16
 venue: 'IEEE Transactions on Communications'
-paperurl: 'http://dongxuanBeijing.github.io/files/UAV-Assisted_Satellite-Terrestrial_Secure_Communication_Using_Large-Scale_Antenna_Array_With_One-Bit_ADCs_DACs.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/UAV-Assisted_Satellite-Terrestrial_Secure_Communication_Using_Large-Scale_Antenna_Array_With_One-Bit_ADCs_DACs.pdf'
 citation: 'D. He, Z. Sha, H. Liu, T. Mao, and Z. Wang, &quot;UAV-assisted satellite-terrestrial secure communication using large-scale antenna array with one-bit ADCs/DACs,&quot; <i>IEEE Trans. Commun.</i>, vol. 71, no. 1, pp. 580–594, Jan. 2023.'
 ---
 

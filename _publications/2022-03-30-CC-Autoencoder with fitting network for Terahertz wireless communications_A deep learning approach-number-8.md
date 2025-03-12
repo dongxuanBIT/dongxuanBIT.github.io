@@ -6,7 +6,7 @@ permalink: /publication/2022-03-30-CC-Autoencoder with fitting network for Terah
 excerpt: 'This paper is about an improved autoencoder including coding the transmitted symbols at the transmitter and decoding the corresponding signals at the receiver to improve the robustness against these hybrid distortions in Terahertz wireless communications'
 date: 2022-03-30
 venue: 'China Communications'
-paperurl: 'http://dongxuanBeijing.github.io/files/Autoencoder_with_fitting_network_for_Terahertz_wireless_communications_A_deep_learning_approach.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/Autoencoder_with_fitting_network_for_Terahertz_wireless_communications_A_deep_learning_approach.pdf'
 citation: 'Z. Huang, D. He, J. Chen, Z. Wang, and S. Chen, &quot;Autoencoder with fitting network for terahertz wireless communications: A deep learning approach,&quot; <i>China Commun.</i>, vol. 19, no. 3, pp. 172–180, Mar. 2022.'
 ---
 

@@ -6,7 +6,7 @@ permalink: /publication/2021-12-16-TCOM-Deep learning-assisted TeraHertz QPSK de
 excerpt: 'This paper is about a deep learning-assisted THz receiver to address imperfections of THz devices and single-bit quantization, including in-phase/quadrature-phase imbalance, phase noise and nonlinearity.'
 date: 2021-12-16
 venue: 'IEEE Transactions on Communications'
-paperurl: 'http://dongxuanBeijing.github.io/files/Deep_Learning-Assisted_TeraHertz_QPSK_Detection_Relying_on_Single-Bit_Quantization.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/Deep_Learning-Assisted_TeraHertz_QPSK_Detection_Relying_on_Single-Bit_Quantization.pdf'
 citation: 'D. He, Z. Wang, T. Q. S. Quek, S. Chen, and L. Hanzo, &quot;Deep learning assisted terahertz QPSK detection relying on single-bit quantization,&quot; <i>IEEE Trans. Commun.</i>, vol. 69, no. 12, pp. 8175–8187, Dec. 2021.'
 ---
 

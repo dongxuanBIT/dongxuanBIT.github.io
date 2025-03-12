@@ -6,7 +6,7 @@ permalink: /publication/2023-08-12-CL-Two-Stage LMMSE_DNN Receiver for High-Orde
 excerpt: 'This paper is about a two-stage receiver consisting of linear minimize mean squared error (LMMSE) equalizer and deep neural network (DNN) demodulator, namely TSLD receiver.'
 date: 2023-08-12
 venue: 'IEEE Communications Letters '
-paperurl: 'http://dongxuanBeijing.github.io/files/Two-Stage_LMMSE_DNN_Receiver_for_High-Order_Modulation.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/Two-Stage_LMMSE_DNN_Receiver_for_High-Order_Modulation.pdf'
 citation: 'Z. Huang; D. He; Z. Wang, &quot;Two-Stage LMMSE/DNN Receiver for High-Order Modulation,&quot; <i>IEEE Commun. Lett.</i>, vol. 27, no. 8, pp. 2068–2072, Aug. 2023.'
 
 ---

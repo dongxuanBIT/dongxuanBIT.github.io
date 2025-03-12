@@ -6,7 +6,7 @@ permalink: /publication/2024-11-22-ICSIDP-DRL-Based Service Function Chains Embe
 excerpt: 'This paper is about a STIN architecture based on artificial intelligence (AI) algorithms and the process of embedding Service Function Chains (SFCs) into highly dynamic STINs.'
 date: 2024-11-22
 venue: '2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)'
-paperurl: 'http://dongxuanBeijing.github.io/files/DRL-Based_Service_Function_Chains_Embedding_Through_Network_Function_Virtualization_in_STINs.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/DRL-Based_Service_Function_Chains_Embedding_Through_Network_Function_Virtualization_in_STINs.pdf'
 citation: 'L. Li, C. Yang, H. Li and D. He, &quot;DRL-Based Service Function Chains Embedding Through Network Function Virtualization in STINs,&quot; in <i>Proc. 2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)</i>, Zhuhai, China, 2024, pp. 1-5.'
 ---
 

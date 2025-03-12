@@ -6,7 +6,7 @@ permalink: /publication/2024-09-12-CL-Design of Precoded Waveform With Low PAPR 
 excerpt: 'This paper is about the low peak to average power ratio (PAPR) precoded waveform design for high mobility communication systems.'
 date: 2024-09-12
 venue: 'IEEE Communications Letters'
-paperurl: 'http://dongxuanBeijing.github.io/files/Design_of_Precoded_Waveform_With_Low_PAPR_for_High_Mobility_Communication_Systems.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/Design_of_Precoded_Waveform_With_Low_PAPR_for_High_Mobility_Communication_Systems.pdf'
 citation: 'Y. Chen, D. He, Z. Lu, M. Yuan, and H. Wang, &quot;Design of Precoded Waveform With Low PAPR for High Mobility Communication Systems,&quot; <i>IEEE Commun. Lett.</i>, vol. 28, no. 9, pp. 2156–2160, Sep. 2024.'
 ---
 

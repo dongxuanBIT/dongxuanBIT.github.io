@@ -6,7 +6,7 @@ permalink: /publication/2021-04-25-VTC-Learning-assisted secure relay selection 
 excerpt: 'This paper is about secure relay selection for finite-state Markov channel and a Q-learning assisted relay selection scheme'
 date: 2021-04-25
 venue: '2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring)'
-paperurl: 'http://dongxuanBeijing.github.io/files/Optimal_Relay_Selection_with_a_Full-Duplex_Active_Eavesdropper_in_Cooperative_Wireless_Networks.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/Optimal_Relay_Selection_with_a_Full-Duplex_Active_Eavesdropper_in_Cooperative_Wireless_Networks.pdf'
 citation: 'J. Lu, D. He, and Z. Wang, &quot;Learning-assisted secure relay selection with outdated CSI for finite-state Markov channel,&quot; in <i>Proc. IEEE 93rd Veh. Technol. Conf. (VTC-Spring)</i>, Helsinki, Finland, Apr. 2021, pp. 1–5.'
 ---
 
