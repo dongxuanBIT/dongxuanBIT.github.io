@@ -1,5 +1,5 @@
 ---
-title: "2024中国指挥与控制学会CICC科学技术进步奖（技术发明类）一等奖（序7）"
-excerpt: "空天网络分布式接入控制与高效传输关键技术与应用<br/><img src='../images/2024-zgzkxu-CICC-1st(7th).jpg'>"
+title: "2023卫星导航定位科技进步一等奖（序3）"
+excerpt: "融合北斗的多场景火灾监测预测与救援调度关键技术<br/><img src='../images/2023-GLAC.jpg'>"
 collection: awards
 ---
