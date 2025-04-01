@@ -1,6 +1,6 @@
 ---
 title: "基于深度学习的太赫兹信号处理关键技术"
-collection: projects
+collection: teaching
 type: "国家自然科学基金青年基金"
 permalink: /projects/DL_THz.md
 venue: "项目负责人"
