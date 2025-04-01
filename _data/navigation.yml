@@ -6,10 +6,7 @@
 
 main:
   - title: "CV"
-    url: /cv/
-
-  - title: "Talks"
-    url: /talks/    
+    url: /cv/  
 
   - title: "Publications"
     url: /publications/
@@ -22,6 +19,7 @@ main:
 
   - title: "Projects"
     url: /projects/    
+    
   # - title: "Blog Posts"
   #   url: /year-archive/
       
