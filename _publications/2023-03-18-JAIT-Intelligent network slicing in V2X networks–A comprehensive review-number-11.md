@@ -1,5 +1,5 @@
 ---
-title: " Intelligent Network Slicing in V2X Networks – A Comprehensive Review"
+title: "Intelligent Network Slicing in V2X Networks – A Comprehensive Review"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-03-18-JAIT-Intelligent network slicing in V2X networks–A comprehensive review-number-11
