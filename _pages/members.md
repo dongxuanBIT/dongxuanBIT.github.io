@@ -9,8 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-Ph.D. Student
-======
+<p style="font-weight: 900;">【Ph.D. Student】</p>
 <ul>
     <li>康子奇（ - ） Research area: . </li>
     <li>袁明浩（ - ） Research area: . </li>
@@ -18,15 +17,14 @@ Ph.D. Student
     <li>赵鸿烨（2023 - ） Research area: . </li>
 </ul>
 
-Master Student
-======
+<p style="font-weight: 900;">【Master Student】</p>
 <ul>
     <li>刘子深（2022 - 2025） Research area: Massive MIMO systems, Bayesian inference, and AI empowered wireless communications. </li>
     <li>张家源（2024 - ） Research area: THz communications, Bayesian inference, and AI empowered wireless communications. </li>
 </ul>
 
 
-Alumni
+<p style="font-weight: 900;">【Alumni】</p>
 ======
 <ul>
     <li>（ - ，Ph.D. Student）, currently xxx </li>
