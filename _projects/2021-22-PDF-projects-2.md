@@ -1,8 +1,8 @@
 ---
-title: "基于深度学习的太赫兹信号处理关键技术"
+title: "基于深度神经网络及强化学习的物理层安全传输技术研究"
 collection: projects
-type: "国家自然科学基金青年基金，2022-2023"
-permalink: /projects/2022-23-NSFC-projects-1
+type: "博士后科学基金，2021-2022"
+permalink: /projects/2021-22-PDF-projects-2
 venue: "项目负责人"
 ---
 
