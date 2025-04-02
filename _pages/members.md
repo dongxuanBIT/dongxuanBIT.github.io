@@ -25,7 +25,6 @@ author_profile: true
 
 
 <p style="font-weight: 900;">Alumni</p>
-======
 <ul>
     <li>（ - ，Ph.D. Student）, currently xxx </li>
 </ul>
