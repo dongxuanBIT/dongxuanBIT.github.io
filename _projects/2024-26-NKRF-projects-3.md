@@ -1,9 +1,9 @@
 ---
-title: "基于深度神经网络及强化学习的物理层安全传输技术研究"
+title: "低复杂度太赫兹实时传输样机研制及实验验证"
 collection: projects
-type: "博士后科学基金，2021-2022"
-permalink: /projects/2021-22-PDF-projects-2
-venue: "项目负责人"
+type: "国家重点研发计划，2024-2026"
+permalink: /projects/2024-26-NKRF-projects-3
+venue: "子课题负责人"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
