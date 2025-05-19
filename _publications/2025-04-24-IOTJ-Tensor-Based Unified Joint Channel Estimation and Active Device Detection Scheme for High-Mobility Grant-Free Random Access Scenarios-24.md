@@ -3,9 +3,9 @@ title: "Tensor-Based Unified Joint Channel Estimation and Active Device Detectio
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-25-TWC-GNN-Assisted BiG-AMP Joint Channel Estimation and Data Detection for Massive MIMO Receiver-number-24
-excerpt: 'This paper is about a graph neural network (GNN)-assisted bilinear inference approach to enhance the receiver performance of the MIMO system through message passing-based joint channel estimation and data detection (JCD).'
-date: 2025-02-27
-venue: 'IEEE Transactions on Wireless Communication'
+excerpt: 'This paper investigates massive grant-free random access (GF-RA) in high mobility scenarios, focusing on active device detection (ADD) and channel estimation (CE) under fast time-varying channels. .'
+date: 2025-04-24
+venue: 'IEEE Internet of Things Journal'
 paperurl: 'http://dongxuanBIT.github.io/files/Tensor-Based_Unified_Joint_Channel_Estimation_and_Active_Device_Detection_Scheme_for_High-Mobility_Grant-Free_Random_Access_Scenarios.pdf'
 citation: 'Z. Kang, D. He, H. Wang, Z. Wang, and Z. Han, &quot;Tensor-Based Unified Joint Channel Estimation and Active Device Detection Scheme for High-Mobility Grant-Free Random Access Scenarios,&quot; <i>IEEE Internet Things J.</i>, Early Access, Apr. 2025.'
 ---
