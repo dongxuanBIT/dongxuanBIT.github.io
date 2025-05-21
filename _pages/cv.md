@@ -15,7 +15,7 @@ Education
 * 2013.09-2019.06：就读于 北京理工大学 信息与通信工程专业 博士
 * 2009.09-2013.06：就读于 北京理工大学 自动化专业 本科
 
-Work experience
+Work Experience
 ======
 * 2022.06 至今: 特聘副研究员，预聘助理教授
   * 北京理工大学 信息与电子学院
@@ -25,7 +25,7 @@ Work experience
   * Supervisor: 王昭诚教授
 
 
-Other experience
+Other Experience
 ======
 * Guest Editor
   * Space: Science & Technology 
@@ -34,4 +34,9 @@ Other experience
     * Emerging Technologies Enhanced Cooperative Integrated Sensing and Communication in 6G Era
   * MDPI Electronics
     * Intelligent Signal Processing for Integrated Sensing and Communications towards 6G
+
+* Conference Chair
+  * 2024 IEEE International Conference on Unmanned Systems 
+    * Integrated Sensing and Communication (ISAC) for Unmanned Systems in 6G Era
+
 
