@@ -39,4 +39,8 @@ Other Experience
   * 2024 IEEE International Conference on Unmanned Systems 
     * Integrated Sensing and Communication (ISAC) for Unmanned Systems in 6G Era
 
+* Others
+  * 中国卫星导航定位协会青年工作委员会委员
+  * IEEE Vehicular Technology Society Committee on Drones 委员  
+
 
