@@ -6,7 +6,7 @@ permalink: /projects/2021-22-PDF-projects-2
 venue: "项目负责人"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+围绕满足未来移动通信的安全需求，需设计低复杂度、认知型、自适应的物理层安全传输方案，实现动态、复杂环境下的安全传输设计。
 
 Heading 1
 ======
