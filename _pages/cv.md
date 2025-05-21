@@ -23,3 +23,12 @@ Work experience
 * 2019.09-2022.03: 博士后
   * 清华大学 电子工程系
   * Supervisor: 王昭诚教授
+
+
+Other experience
+======
+* Guest Editor
+  * Space: Science & Technology (Towards Space-Air-Ground Information Network: Next Frontier for Wireless Communications)
+  * IEEE Open Journal of the Communications Society (Emerging Technologies Enhanced Cooperative Integrated Sensing and Communication in 6G Era)
+  * MDPI Electronics (Intelligent Signal Processing for Integrated Sensing and Communications towards 6G)
+
