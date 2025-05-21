@@ -12,9 +12,7 @@ redirect_from:
 <br>
 <p style="font-weight: 900;">【Research Directions】</p>
 <ol>
-    通信感知一体化
-    太赫兹传输
-    人工智能赋能无线通信
+    通信感知一体化、太赫兹传输、人工智能赋能无线通信
 </ol>
 
 
