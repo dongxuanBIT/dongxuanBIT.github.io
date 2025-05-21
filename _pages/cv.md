@@ -28,7 +28,10 @@ Work experience
 Other experience
 ======
 * Guest Editor
-  * Space: Science & Technology (Towards Space-Air-Ground Information Network: Next Frontier for Wireless Communications)
-  * IEEE Open Journal of the Communications Society (Emerging Technologies Enhanced Cooperative Integrated Sensing and Communication in 6G Era)
-  * MDPI Electronics (Intelligent Signal Processing for Integrated Sensing and Communications towards 6G)
+  * Space: Science & Technology 
+    * Towards Space-Air-Ground Information Network: Next Frontier for Wireless Communications
+  * IEEE Open Journal of the Communications Society 
+    * Emerging Technologies Enhanced Cooperative Integrated Sensing and Communication in 6G Era
+  * MDPI Electronics
+    * Intelligent Signal Processing for Integrated Sensing and Communications towards 6G
 
