@@ -20,7 +20,7 @@ redirect_from:
 </ol>
 
 <br>
-<a href="dongxuanBIT/dongxuanBIT.github.io/files/Publication List.pdf">Publication List</a>
+<a href="files/Publication List.pdf">Publication List</a>
 
 <br>
 <p style="font-weight: 900;">【News】</p>
