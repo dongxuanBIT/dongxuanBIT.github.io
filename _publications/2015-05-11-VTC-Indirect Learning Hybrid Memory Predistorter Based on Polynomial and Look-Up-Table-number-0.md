@@ -6,7 +6,7 @@ permalink: /publication/2015-05-11-VTC-Indirect Learning Hybrid Memory Predistor
 excerpt: 'This paper is about a hybrid POLY and LUT predistorter for memory nonlinear system in wideband scenarios.'
 date: 2015-05-11
 venue: '2015 IEEE 81st Vehicular Technology Conference (VTC Spring)'
-paperurl: 'http://dongxuanBIT/dongxuanBIT.github.io/files/C0_Indirect_Learning_Hybrid_Memory_Predistorter_Based_on_Polynomial_and_Look_Up_Table.pdf'
+paperurl: 'http://dongxuanBIT/dongxuanBIT.github.io/files/C0_Indirect_Learning_Hybrid_Memory_Predistorter_Based_on_Polynomial_and_Look-Up-Table.pdf'
 citation: 'Z. Long, H. Wang, N. Guan, N. Wu and D. He, &quot;Indirect Learning Hybrid Memory Predistorter Based on Polynomial and Look-Up-Table,&quot; in <i>Proc. 2015 IEEE 81st Vehicular Technology Conference (VTC Spring)</i>, Glasgow, UK, 2015, pp. 1-5.'
 ---
 
