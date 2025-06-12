@@ -6,7 +6,7 @@ permalink: /publication/2024-02-09-WCL-Model-Driven IEP-GNN Framework for MIMO D
 excerpt: 'This paper is about a model-driven detector called IEP-GNN is proposed for massive multiple-input and multiple-output (MIMO) systems.'
 date: 2024-02-09
 venue: 'IEEE Wireless Communications Letters'
-paperurl: 'http://dongxuanBIT.github.io/files/Model-Driven_IEP-GNN_Framework_for_MIMO_Detection_With_Bayesian_Optimization.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J16_Model-Driven_IEP-GNN_Framework_for_MIMO_Detection_With_Bayesian_Optimization.pdf'
 citation: 'Z. Liu, D. He, N. Wu, Q. Yan, and Y. Li, &quot;Model-driven IEP-GNN framework for MIMO detection with Bayesian optimization,&quot; <i>IEEE Wireless Commun. Lett.</i>, vol. 13, no. 2, pp. 387–391, Feb. 2024.'
 ---
 
