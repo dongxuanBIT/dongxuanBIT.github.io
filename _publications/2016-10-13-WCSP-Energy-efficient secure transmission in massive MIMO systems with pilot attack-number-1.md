@@ -6,7 +6,7 @@ permalink: /publication/2016-10-13-WCSP-Energy-efficient secure transmission in 
 excerpt: 'This paper is about the energy-efficient power allocation for secure transmission in MIMO systems, where an active multi-antennas eavesdropper sends pilot signals as that of destination receiver to transmitter simultaneously in the uplink training phase.'
 date: 2016-10-13
 venue: '2016 8th International Conference on Wireless Communications & Signal Processing (WCSP)'
-paperurl: 'http://dongxuanBIT.github.io/files/Energy-efficient_secure_transmission_in_massive_MIMO_systems_with_pilot_attack.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C1_Energy-efficient_secure_transmission_in_massive_MIMO_systems_with_pilot_attack.pdf'
 citation: 'B. Li, L. Li, D. He, J. Chen, and W. Kong, &quot;Energy-efficient secure transmission in massive MIMO systems with pilot attack,&quot; in <i>Proc. IEEE International Conference on Wireless Communications and Signal Processing (WCSP)</i>, Yangzhou, China, Nov. 13-15, 2016.'
 ---
 
