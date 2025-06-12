@@ -6,7 +6,7 @@ permalink: /publication/2021-05-10-WCL-Orthogonal time frequency space (OTFS) wi
 excerpt: 'This paper is about  a new transmission scheme, called OTFS with dual-mode index modulation (OTFS-DM-IM), which can balance the transmission reliability and spectral efficiency.'
 date: 2021-05-10
 venue: 'IEEE Wireless Communications Letters'
-paperurl: 'http://dongxuanBIT/dongxuanBIT.github.io/files/J03_Orthogonal_Time_Frequency_Space_OTFS_With_Dual-Mode_Index_Modulation.pdf'
+paperurl: 'http://dongxuanBIT/dongxuanBIT.github.io/files/J03_Orthogonal_Time_Frequency_Space_OTFS_With_Dual_Mode_Index_Modulation.pdf'
 citation: 'H. Zhao, D. He, Z. Kang, and H. Wang, &quot;Orthogonal time frequency space (OTFS) with dual-mode index modulation,&quot; <i>IEEE Wireless Commun. Lett.</i>, vol. 10, no. 5, pp. 991–995, May 2021.'
 ---
 
