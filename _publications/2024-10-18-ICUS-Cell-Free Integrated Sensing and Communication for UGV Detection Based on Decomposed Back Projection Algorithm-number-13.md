@@ -6,7 +6,7 @@ permalink: /publication/2024-10-18-ICUS-Cell-Free Integrated Sensing and Communi
 excerpt: 'This paper is about the localization and velocimetry problem of UGV by integrated sensing and communications in a Sub-6GHz cell-free system.'
 date: 2024-10-18
 venue: '2024 IEEE International Conference on Unmanned Systems (ICUS)'
-paperurl: 'http://dongxuanBIT.github.io/files/Cell-Free_Integrated_Sensing_and_Communication_for_UGV_Detection_Based_on_Decomposed_Back_Projection_Algorithm.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C13_Cell_Free_Integrated_Sensing_and_Communication_for_UGV_Detection_Based_on_Decomposed_Back_Projection_Algorithm.pdf'
 citation: 'Z. Yue, Y. Huang, H. Hou and D. He, &quot;Cell-Free Integrated Sensing and Communication for UGV Detection Based on Decomposed Back Projection Algorithm,&quot; in <i>Proc. 2024 IEEE International Conference on Unmanned Systems (ICUS)</i>, Nanjing, China, 2024, pp. 1504-1509.'
 ---
 
