@@ -6,7 +6,7 @@ permalink: /publication/2022-02-12-CL-Deep learning-assisted demodulation for te
 excerpt: 'This paper is about a deep learning-assisted demodulation methodology to improve the bit error rate performance.'
 date: 2022-02-12
 venue: 'IEEE Communications Letters'
-paperurl: 'http://dongxuanBIT.github.io/files/Deep_Learning-Assisted_Demodulation_for_TeraHertz_Communications_Under_Hybrid_Distortions.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J06_Deep_Learning-Assisted_Demodulation_for_TeraHertz_Communications_Under_Hybrid_Distortions.pdf'
 citation: 'D. He and Z. Wang, &quot;Deep learning-assisted demodulation for terahertz communications under hybrid distortions,&quot; <i>IEEE Commun. Lett.</i>, vol. 26, no. 2, pp. 325–329, Feb. 2022.'
 ---
 
