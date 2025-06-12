@@ -6,7 +6,7 @@ permalink: /publication/2021-10-18-TCOM-Deep learning assisted calibrated beam t
 excerpt: 'This paper is about a wide beam based training approach to calibrate the narrow beam direction according to the channel power leakage.'
 date: 2021-10-18
 venue: 'IEEE Transactions on Communications'
-paperurl: 'http://dongxuanBIT.github.io/files/Deep_Learning_Assisted_Calibrated_Beam_Training_for_Millimeter-Wave_Communication_Systems.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J04_Deep_Learning_Assisted_Calibrated_Beam_Training_for_Millimeter-Wave_Communication_Systems.pdf'
 citation: 'K. Ma, D. He, H. Sun, Z. Wang, and S. Chen, &quot;Deep learning assisted calibrated beam training for millimeter-wave communication systems,&quot; <i>IEEE Trans. Commun.</i>, vol. 69, no. 10, pp. 6706–6721, Oct. 2021.'
 ---
 
