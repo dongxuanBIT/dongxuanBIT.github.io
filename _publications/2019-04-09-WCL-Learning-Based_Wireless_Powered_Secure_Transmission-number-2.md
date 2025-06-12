@@ -6,7 +6,7 @@ permalink: /publication/2019-04-09-WCL-Learning-Based_Wireless_Powered_Secure_Tr
 excerpt: 'This paper is about a learning-based wireless powered secure transmission, in which a source utilizes energy harvested from a power beacon to communicate with a legitimate receiver, in the presence of an eavesdropper.'
 date: 2019-04-09
 venue: 'IEEE Wireless Communications Letters'
-paperurl: 'http://dongxuanBIT/dongxuanBeijing.github.io/files/Learning-Based_Wireless_Powered_Secure_Transmission.pdf'
+paperurl: 'http://dongxuanBIT/dongxuanBeijing.github.io/files/J02_Learning-Based_Wireless_Powered_Secure_Transmission.pdf'
 citation: 'D. He, C. Liu, H. Wang, and T. Q. S. Quek, &quot;Learning-based wireless powered secure transmission,&quot; <i>IEEE Wireless Commun. Lett.</i>, vol. 8, no. 2, pp. 600–603, Apr. 2019.'
 ---
 
