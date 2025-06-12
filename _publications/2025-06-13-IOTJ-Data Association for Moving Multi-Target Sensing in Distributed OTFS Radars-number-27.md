@@ -1,0 +1,13 @@
+---
+title: "Data Association for Moving Multi-Target Sensing in Distributed OTFS Radars"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-06-13-IOTJ-Data Association for Moving Multi-Target Sensing in Distributed OTFS Radars-number-27
+excerpt: 'This article investigate ISAC-based multi-target sensing with distributed OTFS radars to deliver reliable performance for UAV networks, which leverages the delay and Doppler information featured by OTFS signals to determine the range and radial velocity. Moreover, a novel optimization framework is proposed to perform data association and target sensing tasks.'
+date: 2025-06-13
+venue: 'IEEE Internet of Things Journal'
+paperurl: 'http://dongxuanBIT.github.io/files/Ubiquitous_UAV_Communication_Enabled_Low-Altitude_Economy_Applications_Techniques_and_3GPPs_Efforts.pdf'
+citation: 'B. Li, D. He and Q. Tao, &quot;Data Association for Moving Multi-Target Sensing in Distributed OTFS Radars,&quot; <i>IEEE Internet Things J.</i>, Early Access, Jun. 2025.'
+---
+
+Unmanned aerial vehicles (UAVs) in wireless communication systems offer rapid deployment, flexible reconfiguration, and superior communication channels, thanks to their short-range line-of-sight links, making them more efficient and cost-effective than terrestrial or high-altitude platform networks.  As a promising technique, integrated sensing and communication (ISAC) enhances UAV networks by integrating sensing and communication functionalities. This concurrent design improves spectrum efficiency and reduces hardware costs. To ensure reliable communication for their high mobility, a novel modulation technique, the orthogonal time-frequency space (OTFS) waveform, has been proposed, which leverages the delay-Doppler domain for efficient information transmission. In this paper, we investigate ISAC-based multi-target sensing with distributed OTFS radars to deliver reliable performance for UAV networks. To achieve that, we propose to leverage the delay and Doppler information featured by OTFS signals to determine the range and radial velocity, accomplishing successful sensing tasks. Moreover, to address the challenge of unassociated measurements and targets, we propose a novel optimization framework to concurrently perform data association and target sensing tasks. This framework is developed by formulating a mixed-integer optimization problem, which is then solved with polynomial complexity through convex approximation. Additionally, we propose an iterative maximum likelihood estimator (MLE) to further enhance sensing performance by accounting for target-measurement errors. Extensive simulation results verify the superiority of our proposed work to state-of-the-art methods. 
