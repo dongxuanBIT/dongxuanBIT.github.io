@@ -6,7 +6,7 @@ permalink: /publication/2025-05-29-Network-Ubiquitous UAV Communication Enabled 
 excerpt: 'This article provides insights into the challenges and opportunities for UAV communication in the evolving low-altitude economy, with a view towards future deployment and regulation.'
 date: 2025-05-29
 venue: 'IEEE Network'
-paperurl: 'http://dongxuanBIT.github.io/files/Ubiquitous_UAV_Communication_Enabled_Low-Altitude_Economy_Applications_Techniques_and_3GPPs_Efforts.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J26_Ubiquitous_UAV_Communication_Enabled_Low-Altitude_Economy_Applications_Techniques_and_3GPPs_Efforts.pdf'
 citation: 'D. He, W. Yuan, J. Wu and R. Liu, &quot;Ubiquitous UAV Communication Enabled Low-Altitude Economy: Applications, Techniques, and 3GPP’s Efforts,&quot; <i>IEEE Netw.</i>, Early Access, May 2025.'
 ---
 
