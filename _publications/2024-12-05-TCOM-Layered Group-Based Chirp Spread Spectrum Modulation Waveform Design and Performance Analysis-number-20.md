@@ -6,7 +6,7 @@ permalink: /publication/2024-12-05-TCOM-Layered Group-Based Chirp Spread Spectru
 excerpt: 'This paper is about waveform design and performance analysis for layered group-based chirp spread spectrum modulation.'
 date: 2024-12-05
 venue: 'IEEE Transactions on Communications'
-paperurl: 'http://dongxuanBIT.github.io/files/Layered_Group-Based_Chirp_Spread_Spectrum_Modulation_Waveform_Design_and_Performance_Analysis.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J20_Layered_Group-Based_Chirp_Spread_Spectrum_Modulation_Waveform_Design_and_Performance_Analysis.pdf'
 citation: 'Q. Yu, Z. Lu, D. He, and H. Wang, &quot;Layered Group-Based Chirp Spread Spectrum Modulation: Waveform Design and Performance Analysis,&quot; <i>IEEE Trans. Commun.</i>, Early Access, Oct. 2024.'
 ---
 
