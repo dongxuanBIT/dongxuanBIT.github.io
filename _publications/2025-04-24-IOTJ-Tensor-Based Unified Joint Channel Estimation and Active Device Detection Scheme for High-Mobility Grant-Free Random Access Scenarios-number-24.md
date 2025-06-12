@@ -6,7 +6,7 @@ permalink: /publication/2025-04-24-IOTJ-Tensor-Based Unified Joint Channel Estim
 excerpt: 'This paper investigates massive grant-free random access (GF-RA) in high mobility scenarios, focusing on active device detection (ADD) and channel estimation (CE) under fast time-varying channels.'
 date: 2025-04-24
 venue: 'IEEE Internet of Things Journal'
-paperurl: 'http://dongxuanBIT.github.io/files/Tensor-Based_Unified_Joint_Channel_Estimation_and_Active_Device_Detection_Scheme_for_High-Mobility_Grant-Free_Random_Access_Scenarios.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J24_Tensor-Based_Unified_Joint_Channel_Estimation_and_Active_Device_Detection_Scheme_for_High-Mobility_Grant-Free_Random_Access_Scenarios.pdf'
 citation: 'Z. Kang, D. He, H. Wang, Z. Wang, and Z. Han, &quot;Tensor-Based Unified Joint Channel Estimation and Active Device Detection Scheme for High-Mobility Grant-Free Random Access Scenarios,&quot; <i>IEEE Internet Things J.</i>, Early Access, Apr. 2025.'
 ---
 
