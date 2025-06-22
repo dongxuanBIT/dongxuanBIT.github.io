@@ -28,7 +28,7 @@ redirect_from:
 <p style="font-weight: 900;">【News】</p>
 <ol>
     <li>2025.06.22 博士生陈宇凡论文被IEEE TWC录用</li>
-    <li>2025.05.18 硕士生曹宇昂获得IEEE 2025 IEEE IWCMC Best Paper Award</li>
+    <li>2025.05.18 硕士生曹宇昂获得IEEE IWCMC Best Paper Award</li>
     <li>2025.05.15 博士生于泉涛论文被IEEE IOTJ录用</li>
     <li>2025.04.07 博士生康子奇论文被IEEE IOTJ录用</li>
     <li>2025.04.07 博士生杨天成论文被IEEE TCCN录用</li>
