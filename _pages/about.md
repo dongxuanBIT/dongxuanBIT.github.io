@@ -32,5 +32,6 @@ redirect_from:
     <li>2025.05.15 博士生于泉涛论文被IEEE IOTJ录用</li>
     <li>2025.04.07 博士生康子奇论文被IEEE IOTJ录用</li>
     <li>2025.04.07 博士生杨天成论文被IEEE TCCN录用</li>
-    <li>2025.01.18 博士生于泉涛、袁明浩论文被IEEE ICC录用</li>
+    <li>2025.01.18 博士生袁明浩论文被IEEE ICC录用</li>
+    <li>2025.01.18 博士生于泉涛论文被IEEE ICC录用</li>
 </ol>
