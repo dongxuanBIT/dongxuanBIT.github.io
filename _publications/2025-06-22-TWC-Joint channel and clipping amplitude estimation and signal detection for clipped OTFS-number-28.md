@@ -1,5 +1,5 @@
 ---
-title: "Joint channel and clipping amplitude estimation and signal detection for clipped OTFS"
+title: "Joint Channel and Clipping Amplitude Estimation and Signal Detection for Clipped OTFS"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-22-TWC-Joint channel and clipping amplitude estimation and signal detection for clipped OTFS-number-28
