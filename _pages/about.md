@@ -27,9 +27,10 @@ redirect_from:
 <br>
 <p style="font-weight: 900;">【News】</p>
 <ol>
-    <li>获得IEEE 2025 IEEE IWCMC Best Paper Award</li>
-    <li>获得IEEE 2024 IEEE ICSIDP Best Paper Award</li>
-    <li>获得2024年中国指控学会科技进步（技术发明类）一等奖</li>
-    <li>获得2024中国发明协会创业创新奖一等奖</li>
-    <li>获得2024年中国卫星导航定位协会创新应用奖白金奖</li>
+    <li>2025.06.22 博士生陈宇凡论文被IEEE TWC录用</li>
+    <li>2025.05.18 硕士生曹宇昂获得IEEE 2025 IEEE IWCMC Best Paper Award</li>
+    <li>2025.05.15 博士生于泉涛论文被IEEE IOTJ录用</li>
+    <li>2025.04.07 博士生康子奇论文被IEEE IOTJ录用</li>
+    <li>2025.04.07 博士生杨天成论文被IEEE TCCN录用</li>
+    <li>2025.01.18 博士生于泉涛、袁明浩论文被IEEE ICC录用</li>
 </ol>
