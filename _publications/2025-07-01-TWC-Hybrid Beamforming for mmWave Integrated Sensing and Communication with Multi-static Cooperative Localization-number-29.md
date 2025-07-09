@@ -1,0 +1,13 @@
+---
+title: "Hybrid Beamforming for mmWave Integrated Sensing and Communication with Multi-static Cooperative Localization"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-07-01-TWC-Hybrid Beamforming for mmWave Integrated Sensing and Communication with Multi-static Cooperative Localization-number-29
+excerpt: 'This paper investigates hybrid beamforming (HBF) design for millimeter-wave (mmWave) multiple-input multiple-output (MIMO) ISAC system with multi-static cooperative localization..'
+date: 2025-07-01
+venue: 'IEEE Transcations on Wireless Communications'
+paperurl: 'http://dongxuanBIT.github.io/files/J28_Joint_channel_and_clipping_amplitude_estimation_and_signal_detection_for_clipped_OTFS.pdf'
+citation: 'M. Yuan, D. He, H. Yin, H. Wang, F. Liu, Z. Wang, and T. Q.S. Quek, &quot;Hybrid Beamforming for mmWave Integrated Sensing and Communication with Multi-static Cooperative Localization,&quot; <i>IEEE Trans. Wireless Commun.</i>, Early Access, Jul. 2025.'
+---
+
+Beamforming is a key technology for achieving integrated sensing and communication (ISAC). However, most existing works focus on mono-static sensing, which has limited sensing accuracy and strong self-interference. To address these issues, this paper investigates hybrid beamforming (HBF) design for millimeter-wave (mmWave) multiple-input multiple-output (MIMO) ISAC system with multi-static cooperative localization. Specifically, one access point (AP) simultaneously forms communication beams to serve multiple user equipments (UEs) and a sensing beam towards one target, and other multiple distributed APs perform cooperative localization on the target by estimating the angle-of-arrivals (AOAs) of received echo signals. First, to characterize the target localization accuracy, we derive the squared position error bound (SPEB) of AOA-based multi-static cooperative localization. Then, two HBF optimization problems are formulated to investigate the performance tradeoff between sensing and communication. For the sensing-centric design, we aim to minimize the SPEB of target localization while ensuring the signal-to-interference-plus-noise ratio (SINR) requirements of individual UEs. To tackle this nonconvex problem, we propose a semidefinite relaxation (SDR)-based alternating optimization algorithm. For the communication-centric design, a fractional programming (FP)-based alternating optimization algorithm is proposed for solving the communication sum-rate maximization problem under the sensing SPEB constraint. Simulation results demonstrate that the proposed two HBF algorithms can achieve localization accuracy and sum-rate performance close to fully-digital beamforming counterparts and outperform other baseline schemes.
