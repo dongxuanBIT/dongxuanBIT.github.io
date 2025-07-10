@@ -19,7 +19,6 @@ author_profile: true
 
 <p style="font-weight: 900;">Master Student</p>
 <ul>
-    
     <li>张家源（2024 - ） Research area: THz communications, Bayesian inference, and AI empowered wireless communications. </li>
 </ul>
 
