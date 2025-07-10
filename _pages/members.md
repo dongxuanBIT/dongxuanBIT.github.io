@@ -19,12 +19,12 @@ author_profile: true
 
 <p style="font-weight: 900;">Master Student</p>
 <ul>
-    <li>刘子深（2022 - 2025） Research area: Massive MIMO systems, Bayesian inference, and AI empowered wireless communications. </li>
+    
     <li>张家源（2024 - ） Research area: THz communications, Bayesian inference, and AI empowered wireless communications. </li>
 </ul>
 
 
 <p style="font-weight: 900;">Alumni</p>
 <ul>
-    <li>（ - ，Ph.D. Student）, currently xxx </li>
+    <li>刘子深（2022-2025 ，Master Student）, now at The Hong Kong Polytechnic University as a PhD student </li>
 </ul>
