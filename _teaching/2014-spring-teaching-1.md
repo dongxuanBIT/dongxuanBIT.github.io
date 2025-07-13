@@ -3,7 +3,7 @@ title: "新一代通信技术及标准化"
 collection: teaching
 type: "研究生课程（Postgraduate Course）"
 permalink: /teaching/2014-spring-teaching-1
-venue: "北京理工大学，中关村校区，研究生楼"
+venue: "北京理工大学，中关村校区研究生楼"
 date: 2025-01-01
 location: "City, Country"
 ---
