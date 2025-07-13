@@ -30,8 +30,6 @@ location: "City, Country"
 * Wireshark
 
 
-Heading 2
+目标学员
 ======
-
-Heading 3
-======
+* 对移动通信技术感兴趣的研究生及博士生
