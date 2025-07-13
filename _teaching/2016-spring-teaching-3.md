@@ -3,7 +3,7 @@ title: "数据通信与网络"
 collection: teaching
 type: "本科生课程（Undergraduate Course）"
 permalink: /teaching/2016-spring-teaching-3
-venue: "University 1, Department"
+venue: "北京理工大学良乡校区, 文萃楼"
 date: 2014-01-01
 location: "City, Country"
 ---

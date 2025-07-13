@@ -3,7 +3,7 @@ title: "通信与网络技术前沿"
 collection: teaching
 type: "研究生课程（Postgraduate Course）"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "北京理工大学中关村校区, 研究生楼"
 date: 2014-01-01
 location: "City, Country"
 ---
