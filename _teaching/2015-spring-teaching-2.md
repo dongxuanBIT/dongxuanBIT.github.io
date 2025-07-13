@@ -1,9 +1,9 @@
 ---
-title: "移动通信（英）"
+title: "通信与网络技术前沿"
 collection: teaching
 type: "研究生课程（Postgraduate Course）"
-permalink: /teaching/2013-spring-teaching-0
-venue: "北京理工大学，中关村校区研究生楼，珠海校区弘毅楼"
+permalink: /teaching/2015-spring-teaching-2
+venue: "北京理工大学，中关村校区研究生楼"
 date: 2025-01-01
 location: "City, Country"
 ---
