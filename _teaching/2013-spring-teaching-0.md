@@ -1,5 +1,5 @@
 ---
-title: "新一代通信技术及标准化"
+title: "移动通信（英）"
 collection: teaching
 type: "研究生课程（Postgraduate Course）"
 permalink: /teaching/2014-spring-teaching-1
