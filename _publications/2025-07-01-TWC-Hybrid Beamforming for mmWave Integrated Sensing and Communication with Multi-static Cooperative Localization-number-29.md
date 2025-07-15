@@ -6,7 +6,7 @@ permalink: /publication/2025-07-01-TWC-Hybrid Beamforming for mmWave Integrated 
 excerpt: 'This paper investigates hybrid beamforming (HBF) design for millimeter-wave (mmWave) multiple-input multiple-output (MIMO) ISAC system with multi-static cooperative localization.'
 date: 2025-07-01
 venue: 'IEEE Transcations on Wireless Communications'
-paperurl: 'http://dongxuanBIT.github.io/files/J29_TWC.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J29_Hybrid_Beamforming_for_mmWave_Integrated_Sensing_and_Communication_with_Multi-static_Cooperative_Localization.pdf'
 citation: 'M. Yuan, D. He, H. Yin, H. Wang, F. Liu, Z. Wang, and T. Q.S. Quek, &quot;Hybrid Beamforming for mmWave Integrated Sensing and Communication with Multi-static Cooperative Localization,&quot; <i>IEEE Trans. Wireless Commun.</i>, Early Access, Jul. 2025.'
 ---
 
