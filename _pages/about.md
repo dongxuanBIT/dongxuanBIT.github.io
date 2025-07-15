@@ -27,6 +27,7 @@ redirect_from:
 <br>
 <p style="font-weight: 900;">【News】</p>
 <ol>
+    <li>2025.07.15 硕士生刘子深论文被IEEE TVT录用</li>
     <li>2025.07.01 博士生袁明浩论文被IEEE TWC录用</li>
     <li>2025.06.22 博士生陈宇凡论文被IEEE TWC录用</li>
     <li>2025.05.29 相关论文被IEEE Network录用</li>
