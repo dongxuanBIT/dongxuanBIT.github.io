@@ -2,9 +2,9 @@
 title: "Meta-Learning Empowered Receiver Design for MIMO-OFDM System under HPA Nonlinearity"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-07-01-TWC-Hybrid Beamforming for mmWave Integrated Sensing and Communication with Multi-static Cooperative Localization-number-29
+permalink: /publication/2025-07-15-TVT-Meta-Learning Empowered Receiver Design for MIMO-OFDM System under HPA Nonlinearity-number-30
 excerpt: 'This paper investigates a meta-learning empowered detector for multiple-input multiple-output orthogonal frequency-division multiplexing (MIMO-OFDM) systems under nonlinear distortions of high power amplifier (HPA).'
-date: 2025-07-01
+date: 2025-07-15
 venue: '"IEEE Transactions on Vehicular Technology'
 paperurl: 'http://dongxuanBIT.github.io/files/J30_TVT.pdf'
 citation: 'Z. Liu, N. Wu, D. He, W. Yuan, and C. Yuen, &quot;Meta-Learning Empowered Receiver Design for MIMO-OFDM System under HPA Nonlinearity,&quot; <i>IEEE Trans. Veh. Technol.</i>, Early Access, Jul. 2025.'
