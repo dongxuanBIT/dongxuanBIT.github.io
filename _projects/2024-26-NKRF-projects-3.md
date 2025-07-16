@@ -6,13 +6,10 @@ permalink: /projects/2024-26-NKRF-projects-3
 venue: "子课题负责人"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+课题主要研究面向I/Q失衡及相位噪声的器件失真补偿方案，研究射频链路非理想性下的高可靠无线传输机制，研究模数转换器采样精度受限条件下的鲁棒接收方法，支撑基带平台实现低复杂度的超高速基带信号处理，并协助搭建出大容量THz通信实时链路。
 
-Heading 1
+基于元学习的接收机设计
 ======
 
-Heading 2
-======
-
-Heading 3
+面向低精度量化的太赫兹接收机设计
 ======

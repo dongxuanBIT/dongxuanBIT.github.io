@@ -6,13 +6,10 @@ permalink: /projects/2024-AF-projects-4
 venue: "项目负责人"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+面向无人蜂群组网需求，开展无人蜂群组网仿真、电台设计及无人机挂载视野。
 
-Heading 1
+无人蜂群仿真协议
 ======
 
-Heading 2
-======
-
-Heading 3
+无人机自适应电台
 ======

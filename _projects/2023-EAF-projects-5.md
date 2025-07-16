@@ -6,7 +6,7 @@ permalink: /projects/2023-EAF-projects-5
 venue: "项目负责人"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+面向定向天线自组网网络的组网需求，研究集中式及分布式的组网协议，并基于NS3完成网络协议仿真。
 
 Heading 1
 ======
