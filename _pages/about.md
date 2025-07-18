@@ -40,5 +40,3 @@ redirect_from:
     <li>2025.01.18 博士生于泉涛论文被IEEE ICC录用</li>
 </ol>
 
-
-<img src='../images/2023-GLAC.jpg'>"
