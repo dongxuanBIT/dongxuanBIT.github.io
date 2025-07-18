@@ -33,7 +33,7 @@ author_profile: true
 
 
 <p style="font-weight: 900;">Alumni</p>
-<ul>
+<ul> 
     <li>刘子深（2022-2025 ，Master Student）, now at The Hong Kong Polytechnic University （as a PhD. student） </li>
     <li>尚建业（2022-2025 ，Master Student）, now at NARI Technology Co., Ltd </li> 
     <li>吴铮（2022-2025 ，Master Student）, now at   State Grid Corporation of China</li> 
