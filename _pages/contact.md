@@ -13,4 +13,4 @@ author_profile: true
 
   电子邮箱
 ======
-* xx@dongxuanBIT
+* dongxuan_he@bit.edu.cn
