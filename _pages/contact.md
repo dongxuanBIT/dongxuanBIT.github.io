@@ -11,6 +11,6 @@ author_profile: true
 
 
 
-  电子邮箱
+  <p style="font-weight: 900;">电子邮箱</p>
 ======
 * dongxuan_he@bit.edu.cn
