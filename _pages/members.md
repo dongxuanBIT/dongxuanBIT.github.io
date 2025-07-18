@@ -16,7 +16,6 @@ author_profile: true
     <li>袁明浩（2022-2026 ） Research area: Integrated sensing and communication, massive MIMO, and mmWave communications. </li>
     <li>杨天成（2021-2027 ） Research area: Unmanned aerial vehicle communication, Integrated sensing and communication, Low-altitude economy. </li>
     <li>赵鸿烨（2023-2029 ） Research area: Integrated sensing and communication, Delay phase based precoding, Wideband beamforming. </li>
-    <li>马伯源（2025-2031 ） Research area: Integrated sensing and communication. </li>
 </ul>
 
 
@@ -29,7 +28,6 @@ author_profile: true
     <li>鲁瑞麒（2024-2027 ） Research area: Integrated sensing and communication, Movable antenna. </li>
     <li>李典（2025-2028 ） Research area: Integrated sensing and communication. </li>
     <li>赵超越（2025-2028 ） Research area: Integrated sensing and communication. </li>
-    <li>盛楠（2025-2028 ） Research area: Integrated sensing and communication. </li>
 </ul>
 
 
