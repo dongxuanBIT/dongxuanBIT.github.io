@@ -43,4 +43,4 @@ author_profile: true
 
 
 
-<img src='../images/GroupPhoto.jpg'>"
+<img src='../images/GroupPhoto.jpg'>
