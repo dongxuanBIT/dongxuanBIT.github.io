@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "联系信息"
-permalink: /cv/
+permalink: /contact/
 author_profile: true
 # redirect_from:
 #   - /resume
