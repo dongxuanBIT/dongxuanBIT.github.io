@@ -30,6 +30,7 @@ redirect_from:
     <li>2025.07.15 硕士生刘子深论文被IEEE TVT录用</li>
     <li>2025.07.01 博士生袁明浩论文被IEEE TWC录用</li>
     <li>2025.06.22 博士生陈宇凡论文被IEEE TWC录用</li>
+    <li>2025.06.03 相关论文被IEEE IOTJ录用</li>
     <li>2025.05.29 相关论文被IEEE Network录用</li>
     <li>2025.05.18 硕士生曹宇昂获得IEEE IWCMC Best Paper Award</li>
     <li>2025.05.15 博士生于泉涛论文被IEEE IOTJ录用</li>
