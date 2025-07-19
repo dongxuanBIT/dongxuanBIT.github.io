@@ -1,5 +1,5 @@
 ---
-layout: Information
+layout: contact
 title: "联系信息"
 permalink: /contact/
 author_profile: true
