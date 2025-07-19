@@ -27,16 +27,17 @@ redirect_from:
 <br>
 <p style="font-weight: 900;">【News】</p>
 <ol>
-    <li>2025.07.15 硕士生刘子深论文被IEEE TVT录用</li>
-    <li>2025.07.01 博士生袁明浩论文被IEEE TWC录用</li>
-    <li>2025.06.22 博士生陈宇凡论文被IEEE TWC录用</li>
-    <li>2025.06.03 相关论文被IEEE IOTJ录用</li>
-    <li>2025.05.29 相关论文被IEEE Network录用</li>
-    <li>2025.05.18 硕士生曹宇昂获得IEEE IWCMC Best Paper Award</li>
-    <li>2025.05.15 博士生于泉涛论文被IEEE IOTJ录用</li>
-    <li>2025.04.07 博士生康子奇论文被IEEE IOTJ录用</li>
-    <li>2025.02.16 博士生杨天成论文被IEEE TCCN录用</li>
-    <li>2025.01.18 博士生袁明浩论文被IEEE ICC录用</li>
-    <li>2025.01.18 博士生于泉涛论文被IEEE ICC录用</li>
+    <li>2025.07.19 团队成员于泉涛论文被IEEE WCL录用</li>
+    <li>2025.07.15 团队成员刘子深论文被IEEE TVT录用</li>
+    <li>2025.07.01 团队成员袁明浩论文被IEEE TWC录用</li>
+    <li>2025.06.22 团队成员陈宇凡论文被IEEE TWC录用</li>
+    <li>2025.06.03 团队成员相关论文被IEEE IOTJ录用</li>
+    <li>2025.05.29 团队成员相关论文被IEEE Network录用</li>
+    <li>2025.05.18 团队成员曹宇昂获得IEEE IWCMC Best Paper Award</li>
+    <li>2025.05.15 团队成员于泉涛论文被IEEE IOTJ录用</li>
+    <li>2025.04.07 团队成员康子奇论文被IEEE IOTJ录用</li>
+    <li>2025.02.16 团队成员杨天成论文被IEEE TCCN录用</li>
+    <li>2025.01.18 团队成员袁明浩论文被IEEE ICC录用</li>
+    <li>2025.01.18 团队成员于泉涛论文被IEEE ICC录用</li>
 </ol>
 
