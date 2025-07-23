@@ -6,7 +6,7 @@ permalink: /publication/2025-07-18-WCL-System-Level Performance Analysis of LoRa
 excerpt: 'This letter proposes a novel spherical stochastic geometry (SG)-based analytical framework to characterize the system-level performance of Long-Range (LoRa)-based low Earth orbit (LEO) satellite constellations.'
 date: 2025-07-18
 venue: '"IEEE Wireless Communications Letters'
-paperurl: 'http://dongxuanBIT.github.io/files/J31_WCL.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J31_System-Level_Performance_Analysis_of_LoRa-Based_LEO_Satellite_Constellations_for_IoT_Communications.pdf'
 citation: 'Q. Yu, D. Mishra, H. Wang, D. He, J. Yuan and M. Matthaiou, &quot;System-Level Performance Analysis of LoRa-Based LEO Satellite Constellations for IoT Communications,&quot; <i>IEEE Wireles Commun. Lett.</i>, Early Access, Jul. 2025.'
 ---
 
