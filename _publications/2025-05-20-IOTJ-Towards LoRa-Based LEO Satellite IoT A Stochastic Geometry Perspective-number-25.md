@@ -6,7 +6,7 @@ permalink: /publication/2025-05-20-IOTJ-Towards LoRa-Based LEO Satellite IoT A S
 excerpt: 'This paper provides a novel spherical stochastic geometry (SG) based analytical framework for characterizing the uplink access probability of LoRa-based LEO satellite IoT system.'
 date: 2025-05-20
 venue: 'IEEE Internet of Things Journal'
-paperurl: 'http://dongxuanBIT.github.io/files/J25_Toward_LoRa-Based_LEO_Satellite_IoT_A_Stochastic_Geometry_Perspective.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J25_Toward_LoRa_Based_LEO_Satellite_IoT_A_Stochastic_Geometry_Perspective.pdf'
 citation: 'Q. Yu, D. Mishra, H. Wang, D. He, J. Yuan and M. Matthaiou, &quot;Towards LoRa-Based LEO Satellite IoT: A Stochastic Geometry Perspective,&quot; <i>IEEE Internet Things J.</i>,  vol. 12, no. 15, pp. 30725-30738, 01 Aug. 2025.'
 ---
 
