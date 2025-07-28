@@ -6,7 +6,7 @@ permalink: /publication/2025-07-28-TVT-Channel-Adaptive Autoencoder Architecture
 excerpt: 'This paper proposes a dynamic autoencoder system based on channel prediction to enhance its robustness against complicated dynamic channel fading and distortions in aerospace THz communication systems.'
 date: 2025-07-28
 venue: '"IEEE Transactions on Vehicular Technology'
-paperurl: 'http://dongxuanBIT.github.io/files/J30_Meta_Learning_Empowered_Receiver_Design_for_MIMO_OFDM_System_under_HPA_Nonlinearity.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/xxx1.pdf'
 citation: 'Y. Huang, T. Mao, D. He, Q. Wang, C. Han, and Z. Wang, &quot;Channel-Adaptive Autoencoder Architecture for Terahertz Aerospace Communications,&quot; <i>IEEE Trans. Veh. Technol.</i>, Early Access, Aug. 2025.'
 ---
 
