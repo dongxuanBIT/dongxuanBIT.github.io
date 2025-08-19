@@ -28,13 +28,13 @@ redirect_from:
 <p style="font-weight: 900;">【News】</p>
 <ol>
     <li>2025.08.19 团队成员袁明浩论文被IEEE TCCN录用</li>
-    <li>2025.07.28 团队成员相关论文被IEEE TVT录用</li>
+    <li>2025.07.28 团队成员参与论文被IEEE TVT录用</li>
     <li>2025.07.19 团队成员于泉涛论文被IEEE WCL录用</li>
     <li>2025.07.15 团队成员刘子深论文被IEEE TVT录用</li>
     <li>2025.07.01 团队成员袁明浩论文被IEEE TWC录用</li>
     <li>2025.06.22 团队成员陈宇凡论文被IEEE TWC录用</li>
-    <li>2025.06.03 团队成员相关论文被IEEE IOTJ录用</li>
-    <li>2025.05.29 团队成员相关论文被IEEE Network录用</li>
+    <li>2025.06.03 团队成员参与论文被IEEE IOTJ录用</li>
+    <li>2025.05.29 团队成员参与论文被IEEE Network录用</li>
     <li>2025.05.18 团队成员曹宇昂获得IEEE IWCMC Best Paper Award</li>
     <li>2025.05.15 团队成员于泉涛论文被IEEE IOTJ录用</li>
     <li>2025.04.07 团队成员康子奇论文被IEEE IOTJ录用</li>
