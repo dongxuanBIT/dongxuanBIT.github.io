@@ -27,6 +27,7 @@ redirect_from:
 <br>
 <p style="font-weight: 900;">【News】</p>
 <ol>
+    <li>2025.08.19 团队成员袁明浩论文被IEEE TCCN录用</li>
     <li>2025.07.28 团队成员相关论文被IEEE TVT录用</li>
     <li>2025.07.19 团队成员于泉涛论文被IEEE WCL录用</li>
     <li>2025.07.15 团队成员刘子深论文被IEEE TVT录用</li>
