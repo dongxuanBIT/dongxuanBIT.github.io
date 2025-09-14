@@ -1,0 +1,13 @@
+---
+title: "Tensor-Based Unsourced Random Access for LEO Satellite Internet of Thingsn"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-09-14-TWC-Tensor-Based Unsourced Random Access for LEO Satellite Internet of Things-number-34
+excerpt: 'This paper investigates hybrid beamforming (HBF) design for near-field millimeter wave (mmWave) integrated sensing and communication (ISAC) systems, where one base station (BS) equipped with large-scale antenna array simultaneously serves multiple communication users and performs target localization by exploiting the degrees of freedom in both angle and distance domains..'
+date: 2025-09-14
+venue: 'IEEE Transactions on Wireless Communications'
+paperurl: 'http://dongxuanBIT.github.io/files/xxx.pdf'
+citation: 'Z. Kang, D. He, H. Wang, W. Yuan, and T. Q.S. Quek, &quot;Tensor-Based Unsourced Random Access for LEO Satellite Internet of Things,&quot; <i>IEEE Trans. Wireles. Commun.</i>, Early Access, 2025.'
+---
+
+This paper investigates hybrid beamforming (HBF) design for near-field millimeter wave (mmWave) integrated sensing and communication (ISAC) systems, where one base station (BS) equipped with large-scale antenna array simultaneously serves multiple communication users and performs target localization by exploiting the degrees of freedom in both angle and distance domains. First, to characterize the target localization accuracy, we analyze the squared position error bound (SPEB) for estimating the two-dimensional (2D) position of target. Then, two HBF optimization problems are formulated to investigate the tradeoff between localization accuracy and communication rate. For the sensing-oriented optimization, we aim to minimize the SPEB of target localization while ensuring the communication rate requirements of individual users. To tackle this nonconvex problem, we propose a semidefinite relaxation (SDR)-based block coordinate descent (BCD) algorithm. For the communicationoriented optimization, a fractional programming (FP) and successive convex approximation (SCA)-based BCD algorithm is proposed to solve the sum-rate maximization problem under the SPEB constraint. The convergence and complexity analyses of the proposed algorithms are presented. Simulation results demonstrate that the proposed HBF algorithms can achieve localization accuracy and communication rate close to fullydigital beamforming and outperform the benchmark schemes.
