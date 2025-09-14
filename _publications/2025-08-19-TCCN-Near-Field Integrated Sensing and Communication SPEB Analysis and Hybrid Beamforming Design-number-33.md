@@ -3,7 +3,7 @@ title: "Near-Field Integrated Sensing and Communication: SPEB Analysis and Hybri
 collection: publications
 category: manuscripts
 permalink: /publication/2025-08-19-TCCN-Near-Field Integrated Sensing and Communication SPEB Analysis and Hybrid Beamforming Design-number-33
-excerpt: 'This paper investigates hybrid beamforming (HBF) design for near-field millimeter wave (mmWave) integrated sensing and communication (ISAC) systems, where one base station (BS) equipped with large-scale antenna array simultaneously serves multiple communication users and performs target localization by exploiting the degrees of freedom in both angle and distance domains..'
+excerpt: 'This paper investigates hybrid beamforming (HBF) design for near-field millimeter wave (mmWave) integrated sensing and communication (ISAC) systems, where one base station (BS) equipped with large-scale antenna array simultaneously serves multiple communication users and performs target localization by exploiting the degrees of freedom in both angle and distance domains.'
 date: 2025-08-19
 venue: 'IEEE Transactions on Cognitive Communications and Networking'
 paperurl: 'http://dongxuanBIT.github.io/files/J33_Near-Field_Integrated_Sensing_and_Communication_SPEB_Analysis_and_Hybrid_Beamforming_Design.pdf'
