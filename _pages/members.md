@@ -29,6 +29,7 @@ author_profile: true
     <li>李典：研究方向包括 Integrated sensing and communication. </li>
     <li>赵超越：研究方向包括 Integrated sensing and communication. </li>
     <li>盛楠：研究方向包括 Integrated sensing and communication. </li>
+    <li>赵方策：研究方向包括 Integrated sensing and communication, and Rotatable Antenna. </li>   
 </ul>
 
 
