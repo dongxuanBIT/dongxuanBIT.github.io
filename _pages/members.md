@@ -39,7 +39,8 @@ author_profile: true
     <li>尚建业（2022-2025 ，Master Student）, 国电南瑞科技股份有限公司 </li> 
     <li>吴铮（2022-2025 ，Master Student）, 国家电网有限公司</li> 
     <li>展羽扬（2021-2024 ，Master Student）, 中国卫星网络集团有限公司 </li>  
-    <li>康子奇（2019-2025 ，Master Student）, 中国兵器工业集团 </li> 
+    <li>康子奇（2019-2025，PHD Student）, 中国兵器工业集团 </li> 
+    <li>陈宇凡（2019-2025，PHD Student）, 中国科学研究院电子所 </li> 
 </ul>
 
 
