@@ -1,0 +1,13 @@
+---
+title: "Hybrid Beamforming for Millimeter-Wave ISAC System with Multi-Static Cooperative Localization"
+collection: publications
+category: conferences
+permalink: /publication/2025-09-28-ICC-Hybrid_Beamforming_for_Millimeter-Wave_ISAC_System_with_Multi-Static_Cooperative_Localization-number-19
+excerpt: 'This paper investigates hybrid beamforming design for millimeter-wave (mmWave) multipleinput multiple-output (MIMO) ISAC system with multi-static cooperative localization, where one access point (AP) simultaneously transmits communication beams to serve multiple user equipments (UEs) and transmits a sensing beam towards a target, and other nearby APs perform cooperative localization on the target by estimating the angle-of-arrivals (AOAs) of received echo signals.'
+date: 2025-07-08
+venue: '2025 IEEE International Conference on Communications (ICC)'
+paperurl: 'http://dongxuanBIT.github.io/files/C20_Hybrid_Beamforming_for_Millimeter-Wave_ISAC_System_with_Multi-Static_Cooperative_Localization.pdf'
+citation: 'M. Yuan, D. He, H. Yin and H. Wang, &quot;Hybrid Beamforming for Millimeter-Wave ISAC System with Multi-Static Cooperative Localization,&quot; in <i>Proc. 2025 IEEE International Conference on Communications (ICC)</i>, Montreal, QC, Canada, 2025, pp. 6729-6734.'
+---
+
+Beamforming is a key technique for achieving integrated sensing and communication (ISAC). However, most existing works focus on mono-static sensing, which can only provide limited sensing accuracy and range. In this paper, we investigate hybrid beamforming design for millimeter-wave (mmWave) multipleinput multiple-output (MIMO) ISAC system with multi-static cooperative localization, where one access point (AP) simultaneously transmits communication beams to serve multiple user equipments (UEs) and transmits a sensing beam towards a target, and other nearby APs perform cooperative localization on the target by estimating the angle-of-arrivals (AOAs) of received echo signals. To characterize the target localization accuracy, we derive the squared position error bound (SPEB) of AOA-based cooperative localization by using the equivalent Fisher information matrix (EFIM). Then, the hybrid beamforming design problem is formulated to minimize the SPEB of target localization, while satisfying the signal-to-interference-plus-noise ratio (SINR) requirements of individual communication UEs, transmit power budget, and constant modulus constraints. To solve the non-convex problem, a semidefinite relaxation (SDR)-based alternating optimization algorithm is proposed. Simulation results demonstrate that the proposed hybrid beamforming can achieve localization accuracy close to fully-digital beamforming and outperform the baseline schemes.
