@@ -6,7 +6,7 @@ permalink: /publication/2025-09-14-TWC-Tensor-Based Unsourced Random Access for 
 excerpt: 'This paper investigates massive unsourced random access (URA) paradigm for low earth orbit (LEO) satellite IoT applications, focusing on device separation and signal detection.'
 date: 2025-09-14
 venue: 'IEEE Transactions on Wireless Communications'
-paperurl: 'http://dongxuanBIT.github.io/files/xxx.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J34_Tensor-Based_Unsourced_Random_Access_for_LEO_Satellite_Internet_of_Things.pdf'
 citation: 'Z. Kang, D. He, H. Wang, W. Yuan, and T. Q.S. Quek, &quot;Tensor-Based Unsourced Random Access for LEO Satellite Internet of Things,&quot; <i>IEEE Trans. Wireles. Commun.</i>, Early Access, 2025.'
 ---
 
