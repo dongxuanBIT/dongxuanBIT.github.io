@@ -1,0 +1,13 @@
+---
+title: "Two-Step-Search Based Spatio-Temporal Resource Allocation for Task-Oriented Single-Beam Directional Wireless Networks"
+collection: publications
+category: conferences
+permalink: /publication/2025-09-29-ICECAI-Two-Step-Search Based Spatio-Temporal Resource Allocation for Task-Oriented Single-Beam Directional Wireless Networks-number-21
+excerpt: 'This paper investigates  a mathematical model based on integer linear programming (ILP) is established for spatio-temporal resource allocation, with theoretical upper bounds for network capacity and VoI derived through GUROBI optimizer.'
+date: 2025-09-29
+venue: '2025 6th International Conference on Electronic Communication and Artificial Intelligence (ICECAI)'
+paperurl: 'http://dongxuanBIT.github.io/files/C22_Two-Step-Search_Based_Spatio-Temporal_Resource_Allocation_for_Task-Oriented_Single-Beam_Directional_Wireless_Networks.pdf'
+citation: 'Z. Wu, Y. Miao, D. He, Y. Cao, H. Wang, and C. Wang, &quot;Two-Step-Search Based Spatio-Temporal Resource Allocation for Task-Oriented Single-Beam Directional Wireless Networks,&quot; in <i>Proc. 2025 6th International Conference on Electronic Communication and Artificial Intelligence (ICECAI)</i>, Chengdu, China, 2025, pp. 132-138.'
+---
+
+Single-beam directional wireless networks (WNs) offer enhanced throughput and reduced interference through spatially separated beams, but face emerging challenges in taskoriented scenarios, including dynamic value of information (VoI) optimization and task-specific constraints. To handle these challenges effectively, a mathematical model based on integer linear programming (ILP) is established for spatio-temporal resource allocation, with theoretical upper bounds for network capacity and VoI derived through GUROBI optimizer. Subsequently, a heuristic two-step search algorithm (TSA) is proposed to obtain a near-optimal solution, which comprises a modified greedy algorithm (MGA) for feasible scheduling under task and two-hop constraints, followed by a hybrid variable neighborhood search and simulated annealing (VNS-SA) mechanism that combines neighborhood exploration with probabilistic suboptimal solution acceptance. The proposed algorithm is implemented in network simulator 3 (NS-3) to evaluate its performance. The results show that TSA nearly reaches the optimal network capacity and VoI under dynamic interference, outperforming the greedy baseline through its refined global-local search balance. This framework establishes a systematic approach for task-driven resource allocation in single-beam directional WNs by integrating centralized coordination with metaheuristic optimization, which achieves near-optimal adaptability in dynamic environments.
