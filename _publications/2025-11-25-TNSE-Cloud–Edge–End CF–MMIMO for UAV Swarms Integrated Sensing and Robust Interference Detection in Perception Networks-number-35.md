@@ -6,7 +6,7 @@ permalink: /publication/2025-11-25-TNSE-Cloud–Edge–End CF–MMIMO for UAV Sw
 excerpt: 'This paper proposes a novel cloud-edge-end architecture-based CF-mMIMO communication system to support robust communication in UAV swarm perception networks.'
 date: 2025-11-25
 venue: 'IEEE Transactions on Network Science and Engineering'
-paperurl: 'http://dongxuanBIT.github.io/files/J35_Secure_Integrated_Sensing_and_Communication_Systems_Assisted_by_Active_RIS.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J35_CloudEdgeEnd_CFMMIMO_for_UAV_Swarms_Integrated_Sensing_and_Robust_Interference_Detection_in_Perception_Networks.pdf'
 citation: 'J. Sun, D. He, H. Hou, P. Du, C. Fang, C,.Zhang, W.Xu, D.Wang, and Y. Huang, &quot;Cloud–Edge–End CF–MMIMO for UAV Swarms: Integrated Sensing and Robust Interference Detection in Perception Networks,&quot; <i>IEEE Trans. Netw. Sci. Eng..</i>, Early Access, 2025.'
 ---
 
