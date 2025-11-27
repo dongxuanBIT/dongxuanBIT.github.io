@@ -27,6 +27,7 @@ redirect_from:
 <br>
 <p style="font-weight: 900;">【News】</p>
 <ol>
+    <li>2025.11.25 团队成员参与论文被IEEE TNSE录用</li>
     <li>2025.09.14 团队成员康子奇论文被IEEE TWC录用</li>  
     <li>2025.08.19 团队成员袁明浩论文被IEEE TCCN录用</li>
     <li>2025.07.28 团队成员参与论文被IEEE TVT录用</li>
