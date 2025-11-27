@@ -1,5 +1,5 @@
 ---
-title: "Tensor-Based Unsourced Random Access for LEO Satellite Internet of Thingsn"
+title: "Tensor-Based Unsourced Random Access for LEO Satellite Internet of Things"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-14-TWC-Tensor-Based Unsourced Random Access for LEO Satellite Internet of Things-number-34
