@@ -37,8 +37,5 @@ redirect_from:
     <li>2025.07.01 团队成员袁明浩论文被IEEE TWC录用</li>
     <li>2025.06.22 团队成员陈宇凡论文被IEEE TWC录用</li>
     <li>2025.06.03 团队成员参与论文被IEEE IOTJ录用</li>
-    <li>2025.05.29 团队成员参与论文被IEEE Network录用</li>
-    <li>2025.05.18 团队成员曹宇昂获得IEEE IWCMC Best Paper Award</li>
-    <li>2025.05.15 团队成员于泉涛论文被IEEE IOTJ录用</li>
 </ol>
 
