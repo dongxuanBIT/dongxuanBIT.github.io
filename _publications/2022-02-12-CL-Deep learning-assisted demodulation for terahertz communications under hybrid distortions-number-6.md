@@ -1,5 +1,5 @@
 ---
-title: "Deep learning-assisted demodulation for terahertz communications under hybrid distortions"
+title: "[J06] Deep learning-assisted demodulation for terahertz communications under hybrid distortions"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-02-12-CL-Deep learning-assisted demodulation for terahertz communications under hybrid distortions-number-6

@@ -1,5 +1,5 @@
 ---
-title: "Secure routing in multihop ad-hoc networks with srr-based reinforcement learning"
+title: "[J07] Secure routing in multihop ad-hoc networks with srr-based reinforcement learning"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-02-17-WCL-Secure routing in multihop ad-hoc networks with srr-based reinforcement learning-number-7
