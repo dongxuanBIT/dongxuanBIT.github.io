@@ -1,5 +1,5 @@
 ---
-title: "[J001]Transmit antenna selection in MIMO wiretap channels: A machine learning approach"
+title: "[J001] Transmit antenna selection in MIMO wiretap channels: A machine learning approach"
 collection: publications
 category: manuscripts
 permalink:/publication/2018-02-14-WCL-Transmit antenna selection in MIMO wiretap channels: A machine learning approach-number-1
