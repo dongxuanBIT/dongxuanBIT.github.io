@@ -1,5 +1,5 @@
 ---
-title: "Two-Stage LMMSE/DNN Receiver for High-Order Modulation"
+title: "[J13] Two-Stage LMMSE/DNN Receiver for High-Order Modulation"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-08-12-CL-Two-Stage LMMSE_DNN Receiver for High-Order Modulation-number-13

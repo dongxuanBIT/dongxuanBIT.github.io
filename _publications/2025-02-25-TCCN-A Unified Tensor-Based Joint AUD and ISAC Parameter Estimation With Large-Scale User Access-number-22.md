@@ -1,5 +1,5 @@
 ---
-title: "A Unified Tensor-Based Joint AUD and ISAC Parameter Estimation With Large-Scale User Access"
+title: "[J22] A Unified Tensor-Based Joint AUD and ISAC Parameter Estimation With Large-Scale User Access"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-25-TCCN-A Unified Tensor-Based Joint AUD and ISAC Parameter Estimation With Large-Scale User Access-number-22

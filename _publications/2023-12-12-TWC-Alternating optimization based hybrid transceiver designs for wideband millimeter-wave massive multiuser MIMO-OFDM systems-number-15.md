@@ -1,5 +1,5 @@
 ---
-title: "Alternating optimization based hybrid transceiver designs for wideband millimeter-wave massive multiuser MIMO-OFDM systems"
+title: "[J15] Alternating optimization based hybrid transceiver designs for wideband millimeter-wave massive multiuser MIMO-OFDM systems"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-12-12-TWC-Alternating optimization based hybrid transceiver designs for wideband millimeter-wave massive multiuser MIMO-OFDM systems-number-15

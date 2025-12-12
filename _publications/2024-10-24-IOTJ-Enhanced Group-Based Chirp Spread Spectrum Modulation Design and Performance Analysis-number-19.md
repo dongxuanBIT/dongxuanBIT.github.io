@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Group-Based Chirp Spread Spectrum Modulation: Design and Performance Analysis"
+title: "[J18] Enhanced Group-Based Chirp Spread Spectrum Modulation: Design and Performance Analysis"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-24-IOTJ-Enhanced Group-Based Chirp Spread Spectrum Modulation Design and Performance Analysis-number-19

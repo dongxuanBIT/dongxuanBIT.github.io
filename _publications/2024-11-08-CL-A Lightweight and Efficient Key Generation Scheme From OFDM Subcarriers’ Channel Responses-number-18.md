@@ -1,5 +1,5 @@
 ---
-title: "A Lightweight and Efficient Key Generation Scheme From OFDM Subcarriers’ Channel Responses"
+title: "[J19] A Lightweight and Efficient Key Generation Scheme From OFDM Subcarriers’ Channel Responses"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-11-08-WCL-A Lightweight and Efficient Key Generation Scheme From OFDM Subcarriers’ Channel Responses-number-18

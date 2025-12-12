@@ -1,5 +1,5 @@
 ---
-title: "Layered Group-Based Chirp Spread Spectrum Modulation: Waveform Design and Performance Analysis"
+title: "[J20] Layered Group-Based Chirp Spread Spectrum Modulation: Waveform Design and Performance Analysis"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-05-TCOM-Layered Group-Based Chirp Spread Spectrum Modulation Waveform Design and Performance Analysis-number-20

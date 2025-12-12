@@ -1,5 +1,5 @@
 ---
-title: "Design and Implementation of Spectrally Efficient Frequency Division Multiplexing Receiver"
+title: "[J14] Design and Implementation of Spectrally Efficient Frequency Division Multiplexing Receiver"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-11-03-ACC-Design and Implementation of Spectrally Efficient Frequency Division Multiplexing Receiver-number-14

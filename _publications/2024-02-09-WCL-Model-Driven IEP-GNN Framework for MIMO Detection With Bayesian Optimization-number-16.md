@@ -1,5 +1,5 @@
 ---
-title: "Model-Driven IEP-GNN Framework for MIMO Detection With Bayesian Optimization"
+title: "[J16] Model-Driven IEP-GNN Framework for MIMO Detection With Bayesian Optimization"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-09-WCL-Model-Driven IEP-GNN Framework for MIMO Detection With Bayesian Optimization-number-16
