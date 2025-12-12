@@ -1,5 +1,5 @@
 ---
-title: "Data Association for Moving Multi-Target Sensing in Distributed OTFS Radars"
+title: "[J27] Data Association for Moving Multi-Target Sensing in Distributed OTFS Radars"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-13-IOTJ-Data Association for Moving Multi-Target Sensing in Distributed OTFS Radars-number-27

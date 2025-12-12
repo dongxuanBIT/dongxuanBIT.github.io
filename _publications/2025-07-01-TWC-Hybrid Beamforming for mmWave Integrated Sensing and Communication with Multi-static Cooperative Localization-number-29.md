@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Beamforming for mmWave Integrated Sensing and Communication with Multi-static Cooperative Localization"
+title: "[J29] Hybrid Beamforming for mmWave Integrated Sensing and Communication with Multi-static Cooperative Localization"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-01-TWC-Hybrid Beamforming for mmWave Integrated Sensing and Communication with Multi-static Cooperative Localization-number-29

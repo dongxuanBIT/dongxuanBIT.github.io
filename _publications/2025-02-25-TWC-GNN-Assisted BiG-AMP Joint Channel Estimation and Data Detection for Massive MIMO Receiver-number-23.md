@@ -1,5 +1,5 @@
 ---
-title: "GNN-Assisted BiG-AMP: Joint Channel Estimation and Data Detection for Massive MIMO Receiver"
+title: "[J23] GNN-Assisted BiG-AMP: Joint Channel Estimation and Data Detection for Massive MIMO Receiver"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-25-TWC-GNN-Assisted BiG-AMP Joint Channel Estimation and Data Detection for Massive MIMO Receiver-number-23

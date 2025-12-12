@@ -1,5 +1,5 @@
 ---
-title: "System-Level Performance Analysis of LoRa-Based LEO Satellite Constellations for IoT Communications"
+title: "[J31] System-Level Performance Analysis of LoRa-Based LEO Satellite Constellations for IoT Communications"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-18-WCL-System-Level Performance Analysis of LoRa-Based LEO Satellite Constellations for IoT Communications-number-31

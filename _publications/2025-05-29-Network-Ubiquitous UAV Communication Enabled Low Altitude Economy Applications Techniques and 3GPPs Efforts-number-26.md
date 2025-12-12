@@ -1,5 +1,5 @@
 ---
-title: "Ubiquitous UAV Communication Enabled Low-Altitude Economy: Applications, Techniques, and 3GPP’s Efforts"
+title: "[J26] Ubiquitous UAV Communication Enabled Low-Altitude Economy: Applications, Techniques, and 3GPP’s Efforts"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-29-Network-Ubiquitous UAV Communication Enabled Low Altitude Economy Applications Techniques and 3GPPs Efforts-number-26
