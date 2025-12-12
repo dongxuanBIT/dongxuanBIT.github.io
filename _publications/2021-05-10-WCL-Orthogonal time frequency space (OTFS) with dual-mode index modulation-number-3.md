@@ -1,5 +1,5 @@
 ---
-title: "Orthogonal time frequency space (OTFS) with dual-mode index modulation"
+title: "[J03] Orthogonal time frequency space (OTFS) with dual-mode index modulation"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-05-10-WCL-Orthogonal time frequency space (OTFS) with dual-mode index modulation-number-3

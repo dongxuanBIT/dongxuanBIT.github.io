@@ -1,5 +1,5 @@
 ---
-title: "Deep learning assisted calibrated beam training for millimeter-wave communication systems"
+title: "[J04] Deep learning assisted calibrated beam training for millimeter-wave communication systems"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-10-18-TCOM-Deep learning assisted calibrated beam training for millimeter-wave communication systems-number-4

@@ -1,5 +1,5 @@
 ---
-title: "Deep learning-assisted TeraHertz QPSK detection relying on single-bit quantization"
+title: "[J05] Deep learning-assisted TeraHertz QPSK detection relying on single-bit quantization"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-12-16-TCOM-Deep learning-assisted TeraHertz QPSK detection relying on single-bit quantization-number-5

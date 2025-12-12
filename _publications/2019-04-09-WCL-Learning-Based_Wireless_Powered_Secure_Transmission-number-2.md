@@ -1,5 +1,5 @@
 ---
-title: "Learning-Based Wireless Powered Secure Transmission"
+title: "[J02] Learning-Based Wireless Powered Secure Transmission"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-04-09-WCL-Learning-Based_Wireless_Powered_Secure_Transmission-number-2
