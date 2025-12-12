@@ -1,5 +1,5 @@
 ---
-title: "Performance Comparison of Single-Carrier and Multi-Carrier Waveforms over Terahertz Wireless Channels"
+title: "[J11] Performance Comparison of Single-Carrier and Multi-Carrier Waveforms over Terahertz Wireless Channels"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-07-18-DCN-Performance comparison of single-carrier and multi-carrier waveforms over terahertz wireless channels-number-0

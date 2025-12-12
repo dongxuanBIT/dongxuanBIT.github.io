@@ -1,5 +1,5 @@
 ---
-title: "DeepAntiJam: Stackelberg game-oriented secure transmission via deep reinforcement learning"
+title: "[J09] DeepAntiJam: Stackelberg game-oriented secure transmission via deep reinforcement learning"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-09-11-CL-DeepAntiJam_Stackelberg game-oriented secure transmission via deep reinforcement learning-number-9

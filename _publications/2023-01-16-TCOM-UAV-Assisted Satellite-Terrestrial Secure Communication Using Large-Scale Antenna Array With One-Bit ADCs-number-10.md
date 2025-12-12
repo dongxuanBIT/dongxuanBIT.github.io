@@ -1,5 +1,5 @@
 ---
-title: " UAV-Assisted Satellite-Terrestrial Secure Communication Using Large-Scale Antenna Array With One-Bit ADCs/DACs"
+title: "[J10] UAV-Assisted Satellite-Terrestrial Secure Communication Using Large-Scale Antenna Array With One-Bit ADCs/DACs"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-16-TCOM-UAV-Assisted Satellite-Terrestrial Secure Communication Using Large-Scale Antenna Array With One-Bit ADCs-number-10

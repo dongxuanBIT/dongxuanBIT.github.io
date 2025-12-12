@@ -1,5 +1,5 @@
 ---
-title: "Autoencoder with fitting network for Terahertz wireless communications: A deep learning approach"
+title: "[J08] Autoencoder with fitting network for Terahertz wireless communications: A deep learning approach"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-03-30-CC-Autoencoder with fitting network for Terahertz wireless communications_A deep learning approach-number-8

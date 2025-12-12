@@ -1,5 +1,5 @@
 ---
-title: "SSK Based PSK-LoRa Modulation for IoT Communications"
+title: "[J12] SSK Based PSK-LoRa Modulation for IoT Communications"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-07-27-OJCOMS-SSK Based PSK-LoRa Modulation for IoT Communications-number-12
