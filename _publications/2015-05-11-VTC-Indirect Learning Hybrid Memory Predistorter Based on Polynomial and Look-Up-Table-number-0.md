@@ -1,5 +1,5 @@
 ---
-title: "Indirect Learning Hybrid Memory Predistorter Based on Polynomial and Look-Up-Table"
+title: "[C01] Indirect Learning Hybrid Memory Predistorter Based on Polynomial and Look-Up-Table"
 collection: publications
 category: conferences
 permalink: /publication/2015-05-11-VTC-Indirect Learning Hybrid Memory Predistorter Based on Polynomial and Look-Up-Table-number-0

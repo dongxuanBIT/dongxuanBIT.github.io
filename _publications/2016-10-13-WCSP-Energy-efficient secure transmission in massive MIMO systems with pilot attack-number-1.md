@@ -1,5 +1,5 @@
 ---
-title: "Energy-efficient secure transmission in massive MIMO systems with pilot attack"
+title: "[C02] Energy-efficient secure transmission in massive MIMO systems with pilot attack"
 collection: publications
 category: conferences
 permalink: /publication/2016-10-13-WCSP-Energy-efficient secure transmission in massive MIMO systems with pilot attack-number-1

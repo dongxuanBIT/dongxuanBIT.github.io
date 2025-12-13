@@ -1,5 +1,5 @@
 ---
-title: "Learning-assisted secure relay selection with outdated CSI for finite-state Markov channel"
+title: "[C05] Learning-assisted secure relay selection with outdated CSI for finite-state Markov channel"
 collection: publications
 category: conferences
 permalink: /publication/2021-04-25-VTC-Learning-assisted secure relay selection with outdated CSI for finite-state Markov channel-number-4

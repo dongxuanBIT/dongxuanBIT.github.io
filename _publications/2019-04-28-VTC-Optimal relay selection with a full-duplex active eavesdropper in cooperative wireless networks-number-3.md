@@ -1,5 +1,5 @@
 ---
-title: "Optimal relay selection with a full-duplex active eavesdropper in cooperative wireless networks"
+title: "[C04] Optimal relay selection with a full-duplex active eavesdropper in cooperative wireless networks"
 collection: publications
 category: conferences
 permalink: /publication/2019-04-28-VTC-Optimal relay selection with a full-duplex active eavesdropper in cooperative wireless networks-number-3

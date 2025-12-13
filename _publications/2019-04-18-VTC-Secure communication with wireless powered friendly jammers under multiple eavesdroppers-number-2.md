@@ -1,5 +1,5 @@
 ---
-title: "Secure communication with wireless powered friendly jammers under multiple eavesdroppers"
+title: "[C03] Secure communication with wireless powered friendly jammers under multiple eavesdroppers"
 collection: publications
 category: conferences
 permalink: /publication/2019-04-18-VTC-Secure communication with wireless powered friendly jammers under multiple eavesdroppers-number-2
