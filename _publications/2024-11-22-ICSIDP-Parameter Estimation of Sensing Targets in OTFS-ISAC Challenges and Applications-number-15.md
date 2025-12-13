@@ -1,5 +1,5 @@
 ---
-title: "Parameter Estimation of Sensing Targets in OTFS-ISAC: Challenges and Applications"
+title: "[C17] Parameter Estimation of Sensing Targets in OTFS-ISAC: Challenges and Applications"
 collection: publications
 category: conferences
 permalink: /publication/2024-11-22-ICSIDP-Parameter Estimation of Sensing Targets in OTFS-ISAC Challenges and Applications-number-15

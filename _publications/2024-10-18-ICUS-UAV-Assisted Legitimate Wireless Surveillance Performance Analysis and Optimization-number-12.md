@@ -1,5 +1,5 @@
 ---
-title: "UAV-Assisted Legitimate Wireless Surveillance: Performance Analysis and Optimization"
+title: "[C14] UAV-Assisted Legitimate Wireless Surveillance: Performance Analysis and Optimization"
 collection: publications
 category: conferences
 permalink: /publication/2024-10-18-ICUS-UAV-Assisted Legitimate Wireless Surveillance Performance Analysis and Optimization-number-12

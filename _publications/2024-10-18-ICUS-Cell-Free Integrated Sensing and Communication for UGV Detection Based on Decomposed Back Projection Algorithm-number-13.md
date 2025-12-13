@@ -1,5 +1,5 @@
 ---
-title: "Cell-Free Integrated Sensing and Communication for UGV Detection Based on Decomposed Back Projection Algorithm"
+title: "[C13] Cell-Free Integrated Sensing and Communication for UGV Detection Based on Decomposed Back Projection Algorithm"
 collection: publications
 category: conferences
 permalink: /publication/2024-10-18-ICUS-Cell-Free Integrated Sensing and Communication for UGV Detection Based on Decomposed Back Projection Algorithm-number-13

@@ -1,5 +1,5 @@
 ---
-title: "A Unified Tensor-Based Joint Communication and Sensing Parameter Estimation for ISAC with Large-Scale User Access"
+title: "[C15] A Unified Tensor-Based Joint Communication and Sensing Parameter Estimation for ISAC with Large-Scale User Access"
 collection: publications
 category: conferences
 permalink: /publication/2024-11-22-ICSIDP-A Unified Tensor-Based Joint Communication and Sensing Parameter Estimation for ISAC with Large-Scale User Access-number-14

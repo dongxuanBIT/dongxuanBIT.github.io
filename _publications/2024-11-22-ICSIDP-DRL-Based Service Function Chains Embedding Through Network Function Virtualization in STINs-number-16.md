@@ -1,5 +1,5 @@
 ---
-title: "DRL-Based Service Function Chains Embedding Through Network Function Virtualization in STINs"
+title: "[C16] DRL-Based Service Function Chains Embedding Through Network Function Virtualization in STINs"
 collection: publications
 category: conferences
 permalink: /publication/2024-11-22-ICSIDP-DRL-Based Service Function Chains Embedding Through Network Function Virtualization in STINs-number-16
