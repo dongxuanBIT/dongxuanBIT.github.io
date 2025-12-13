@@ -3,10 +3,10 @@ title: "[J37] EDITORIAL:Toward Space–Air–Ground Information Networks: Next F
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-27-SpaceST-Toward Space–Air–Ground Information  Networks: Next Frontier for Wireless Communications-number-37
-excerpt: 'This paper proposes a novel cloud-edge-end architecture-based CF-mMIMO communication system to support robust communication in UAV swarm perception networks.'
+excerpt: 'This paper provides an editorial for a special issue in Space: Science & Technology.'
 date: 2025-11-27
 venue: 'Space: Science & Technology'
-paperurl: 'http://dongxuanBIT.github.io/files/J35_CloudEdgeEnd_CFMMIMO_for_UAV_Swarms_Integrated_Sensing_and_Robust_Interference_Detection_in_Perception_Networks.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J37_Toward Space–Air–Ground Information Networks Next Frontier for Wireless Communications.pdf'
 citation: 'N. Wu, G. Ding, Y. Fu, J. Zhang, and D. He, &quot;Toward Space–Air–Ground Information Networks: Next Frontier for Wireless Communications,&quot; <i> Space Sci. Technol.</i>, vol. 5, pp. 1–2, Dec. 2025'
 ---
 
