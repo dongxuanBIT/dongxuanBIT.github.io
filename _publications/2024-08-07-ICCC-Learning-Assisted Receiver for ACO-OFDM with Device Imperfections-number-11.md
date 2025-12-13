@@ -1,5 +1,5 @@
 ---
-title: "Learning-Assisted Receiver for ACO-OFDM with Device Imperfections"
+title: "[C11] Learning-Assisted Receiver for ACO-OFDM with Device Imperfections"
 collection: publications
 category: conferences
 permalink: /publication/2024-08-07-ICCC-Learning-Assisted Receiver for ACO-OFDM with Device Imperfections-number-11

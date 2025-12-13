@@ -1,5 +1,5 @@
 ---
-title: "Improved Impulsive Noise Suppression Method: Joint Myriad Detection and Gaussian Fitting Robust Local Weighted Smoothing"
+title: "[C09] Improved Impulsive Noise Suppression Method: Joint Myriad Detection and Gaussian Fitting Robust Local Weighted Smoothing"
 collection: publications
 category: conferences
 permalink: /publication/2023-12-08-ICCC-Improved Impulsive Noise Suppression Method Joint Myriad Detection and Gaussian Fitting Robust Local Weighted Smoothing-number-7

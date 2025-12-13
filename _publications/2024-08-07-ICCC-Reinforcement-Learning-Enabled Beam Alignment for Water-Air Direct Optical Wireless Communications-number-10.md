@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement-Learning-Enabled Beam Alignment for Water-Air Direct Optical Wireless Communications"
+title: "[C12] Reinforcement-Learning-Enabled Beam Alignment for Water-Air Direct Optical Wireless Communications"
 collection: publications
 category: conferences
 permalink: /publication/2024-08-07-ICCC-Reinforcement-Learning-Enabled Beam Alignment for Water-Air Direct Optical Wireless Communications-number-10

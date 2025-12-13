@@ -1,5 +1,5 @@
 ---
-title: "An Action Recognition Algorithm Based on Two-Stream Deep Learning for Metaverse Applications"
+title: "[C10] An Action Recognition Algorithm Based on Two-Stream Deep Learning for Metaverse Applications"
 collection: publications
 category: conferences
 permalink: /publication/2024-05-27-IWCMC-An Action Recognition Algorithm Based on Two-Stream Deep Learning for Metaverse Applications-number-9

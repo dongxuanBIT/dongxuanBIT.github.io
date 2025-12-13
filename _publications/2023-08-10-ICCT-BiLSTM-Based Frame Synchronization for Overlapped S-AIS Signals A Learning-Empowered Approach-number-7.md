@@ -1,5 +1,5 @@
 ---
-title: "BiLSTM-Based Frame Synchronization for Overlapped S-AIS Signals: A Learning-Empowered Approach"
+title: "[C08] BiLSTM-Based Frame Synchronization for Overlapped S-AIS Signals: A Learning-Empowered Approach"
 collection: publications
 category: conferences
 permalink: /publication/2023-08-10-ICCC-BiLSTM-Based Frame Synchronization for Overlapped S-AIS Signals A Learning-Empowered Approach-number-7
