@@ -1,5 +1,5 @@
 ---
-title: "Closed-Form Access Probability Analysis for LoRa-Based LEO Satellite IoT"
+title: "[C21] Closed-Form Access Probability Analysis for LoRa-Based LEO Satellite IoT"
 collection: publications
 category: conferences
 permalink: /publication/2025-09-28-ICC-Closed-Form Access Probability Analysis for LoRa-Based LEO Satellite IoT-number-20

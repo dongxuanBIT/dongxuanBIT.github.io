@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Beamforming for Millimeter-Wave ISAC System with Multi-Static Cooperative Localization"
+title: "[C22] Hybrid Beamforming for Millimeter-Wave ISAC System with Multi-Static Cooperative Localization"
 collection: publications
 category: conferences
 permalink: /publication/2025-09-28-ICC-Hybrid_Beamforming_for_Millimeter-Wave_ISAC_System_with_Multi-Static_Cooperative_Localization-number-19

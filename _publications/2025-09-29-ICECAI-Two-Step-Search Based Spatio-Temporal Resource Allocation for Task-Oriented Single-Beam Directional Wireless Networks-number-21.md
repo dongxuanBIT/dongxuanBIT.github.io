@@ -1,5 +1,5 @@
 ---
-title: "Two-Step-Search Based Spatio-Temporal Resource Allocation for Task-Oriented Single-Beam Directional Wireless Networks"
+title: "[C23] Two-Step-Search Based Spatio-Temporal Resource Allocation for Task-Oriented Single-Beam Directional Wireless Networks"
 collection: publications
 category: conferences
 permalink: /publication/2025-09-29-ICECAI-Two-Step-Search Based Spatio-Temporal Resource Allocation for Task-Oriented Single-Beam Directional Wireless Networks-number-21
