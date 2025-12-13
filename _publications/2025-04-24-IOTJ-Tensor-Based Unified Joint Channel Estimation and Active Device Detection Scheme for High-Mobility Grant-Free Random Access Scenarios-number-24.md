@@ -1,5 +1,5 @@
 ---
-title: "[J24] Tensor-Based Unified Joint Channel Estimation and Active Device Detection Scheme for High-Mobility Grant-Free Random Access Scenarios"
+title: "[J25] Tensor-Based Unified Joint Channel Estimation and Active Device Detection Scheme for High-Mobility Grant-Free Random Access Scenarios"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-24-IOTJ-Tensor-Based Unified Joint Channel Estimation and Active Device Detection Scheme for High-Mobility Grant-Free Random Access Scenarios-number-24

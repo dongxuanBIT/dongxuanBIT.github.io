@@ -1,5 +1,5 @@
 ---
-title: "[J35] Cloud–Edge–End CF–MMIMO for UAV Swarms: Integrated Sensing and Robust Interference Detection in Perception Networks"
+title: "[J36] Cloud–Edge–End CF–MMIMO for UAV Swarms: Integrated Sensing and Robust Interference Detection in Perception Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-25-TNSE-Cloud–Edge–End CF–MMIMO for UAV Swarms Integrated Sensing and Robust Interference Detection in Perception Networks-number-35

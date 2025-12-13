@@ -1,5 +1,5 @@
 ---
-title: "[J21] Integrated Sensing and Communication Receiver Design for OTFS-based MIMO System: A Unified Variational Inference Framework"
+title: "[J22] Integrated Sensing and Communication Receiver Design for OTFS-based MIMO System: A Unified Variational Inference Framework"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-20-JSAC-Integrated Sensing and Communication Receiver Design for OTFS-based MIMO System A Unified Variational Inference Framework Analysis-number-21

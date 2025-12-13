@@ -1,5 +1,5 @@
 ---
-title: "[J30] Meta-Learning Empowered Receiver Design for MIMO-OFDM System under HPA Nonlinearity"
+title: "[J31] Meta-Learning Empowered Receiver Design for MIMO-OFDM System under HPA Nonlinearity"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-15-TVT-Meta-Learning Empowered Receiver Design for MIMO-OFDM System under HPA Nonlinearity-number-30

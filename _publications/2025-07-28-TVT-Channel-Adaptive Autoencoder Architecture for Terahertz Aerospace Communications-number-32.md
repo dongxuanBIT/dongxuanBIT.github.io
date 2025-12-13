@@ -1,5 +1,5 @@
 ---
-title: "[J32] Channel-Adaptive Autoencoder Architecture for Terahertz Aerospace Communications"
+title: "[J33] Channel-Adaptive Autoencoder Architecture for Terahertz Aerospace Communications"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-28-TVT-Channel-Adaptive Autoencoder Architecture for Terahertz Aerospace Communications-number-32

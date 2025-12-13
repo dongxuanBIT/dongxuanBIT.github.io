@@ -1,5 +1,5 @@
 ---
-title: "[J33] Near-Field Integrated Sensing and Communication: SPEB Analysis and Hybrid Beamforming Design"
+title: "[J34] Near-Field Integrated Sensing and Communication: SPEB Analysis and Hybrid Beamforming Design"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-08-19-TCCN-Near-Field Integrated Sensing and Communication SPEB Analysis and Hybrid Beamforming Design-number-33

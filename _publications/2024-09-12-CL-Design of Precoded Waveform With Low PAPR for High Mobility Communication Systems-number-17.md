@@ -1,5 +1,5 @@
 ---
-title: "[J17] Design of Precoded Waveform With Low PAPR for High Mobility Communication Systems"
+title: "[J18] Design of Precoded Waveform With Low PAPR for High Mobility Communication Systems"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-12-CL-Design of Precoded Waveform With Low PAPR for High Mobility Communication Systems-number-17

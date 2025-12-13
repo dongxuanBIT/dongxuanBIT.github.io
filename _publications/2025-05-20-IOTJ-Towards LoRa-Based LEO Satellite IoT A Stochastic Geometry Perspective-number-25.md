@@ -1,5 +1,5 @@
 ---
-title: "[J25] Towards LoRa-Based LEO Satellite IoT: A Stochastic Geometry Perspective"
+title: "[J26] Towards LoRa-Based LEO Satellite IoT: A Stochastic Geometry Perspective"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-20-IOTJ-Towards LoRa-Based LEO Satellite IoT A Stochastic Geometry Perspective-number-25
