@@ -1,0 +1,13 @@
+---
+title: "Integrating Sensing and Communication for IoT Systems: Task-Oriented Control Perspective"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-06-27-IoTMag-Integrating Sensing and Communication for IoT Systems Task-Oriented Control Perspective-number-36
+excerpt: 'This paper provides an overview of ISAC-enabled IoT systems in terms of their framework and key technologies..'
+date: 2024-06-27
+venue: 'IEEE Transactions on Network Science and Engineering'
+paperurl: 'http://dongxuanBIT.github.io/files/J35_CloudEdgeEnd_CFMMIMO_for_UAV_Swarms_Integrated_Sensing_and_Robust_Interference_Detection_in_Perception_Networks.pdf'
+citation: 'J. Sun, D. He, H. Hou, P. Du, C. Fang, C,.Zhang, W.Xu, D.Wang, and Y. Huang, &quot;Cloud–Edge–End CF–MMIMO for UAV Swarms: Integrated Sensing and Robust Interference Detection in Perception Networks,&quot; <i>IEEE Trans. Netw. Sci. Eng..</i>, Early Access, 2025.'
+---
+
+With the rapid advancement of sixth-generation (6 G) communications, unmanned aerial vehicle (UAV) swarms have emerged as a key application scenario. However, their high mobility and complex electromagnetic environment pose significant communication challenges, such as frequent handovers and severe co-channel interference. Although conventional cell-free massive MIMO (CF-mMIMO) systems offer ubiquitous coverage, their high backhaul overhead and complex baseband processing limit practical deployment. To address these challenges, this paper proposes a novel cloud-edge-end architecture-based CF-mMIMO communication system to support robust communication in UAV swarm perception networks. Our designed scalable architecture leverages distributed edge units (EDUs) and user-centric distributed units (UCDUs) for collaborative processing, enabling distributed localized processing and user-centric coordination, thus supporting infinite collaboration expansion. Furthermore, we develop a hybrid signal detection scheme that combines EDU-level local minimum mean squared error estimation (MMSE) detection with UCDU-level global signal aggregation, achieving performance close to that of a centralized receiver while significantly reducing backhaul overhead. To address the problem of dynamic interference, we also propose a spatiotemporal-frequency forward continuous mean excision (FCME)-based interference detection framework. This framework effectively suppresses both narrowband and wideband interference by dynamically identifying interfered frequency bands and beams. Simulation results demonstrate that the proposed method outperforms conventional approaches in terms of signal combining and interference suppression, providing a reliable communication link for UAV swarm communications.
