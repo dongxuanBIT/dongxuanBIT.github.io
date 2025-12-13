@@ -1,5 +1,5 @@
 ---
-title: "PCA-BD-Based Broadband Hybrid Precoding for Multi-user Massive MIMO Systems"
+title: "[C07] PCA-BD-Based Broadband Hybrid Precoding for Multi-user Massive MIMO Systems"
 collection: publications
 category: conferences
 permalink: /publication/2022-11-11-ICCT-PCA-BD-Based Broadband Hybrid Precoding for Multi-user Massive MIMO Systems-number-6

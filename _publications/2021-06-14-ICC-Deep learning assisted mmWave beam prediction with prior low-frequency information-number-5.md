@@ -1,5 +1,5 @@
 ---
-title: "Deep learning assisted mmWave beam prediction with prior low-frequency information"
+title: "[C06] Deep learning assisted mmWave beam prediction with prior low-frequency information"
 collection: publications
 category: conferences
 permalink: /publication/2021-06-14-ICC-Deep learning assisted mmWave beam prediction with prior low-frequency information-number-5
