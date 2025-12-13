@@ -1,5 +1,5 @@
 ---
-title: "Codebook Design for Holographic MIMO Near-Field Prospects and Road to Standardization"
+title: "[C19] Codebook Design for Holographic MIMO Near-Field Prospects and Road to Standardization"
 collection: publications
 category: conferences
 permalink: /publication/2025-05-12-IWCMC-Codebook Design for Holographic MIMO Near-Field Prospects and Road to Standardization-number-17

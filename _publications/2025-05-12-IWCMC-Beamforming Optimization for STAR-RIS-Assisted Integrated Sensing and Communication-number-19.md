@@ -1,5 +1,5 @@
 ---
-title: "Beamforming Optimization for STAR-RIS-Assisted Integrated Sensing and Communication"
+title: "[C18] Beamforming Optimization for STAR-RIS-Assisted Integrated Sensing and Communication"
 collection: publications
 category: conferences
 permalink: /publication/2025-05-12-IWCMC-Beamforming Optimization for STAR-RIS-Assisted Integrated Sensing and Communication-number-19

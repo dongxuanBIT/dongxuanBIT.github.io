@@ -1,5 +1,5 @@
 ---
-title: "Low-Complexity Joint Range and Velocity Estimation for OFDM-Based Integrated Sensing and Communication"
+title: "[C20] Low-Complexity Joint Range and Velocity Estimation for OFDM-Based Integrated Sensing and Communication"
 collection: publications
 category: conferences
 permalink: /publication/2025-05-12-IWCMC-Low-Complexity Joint Range and Velocity Estimation for OFDM-Based Integrated Sensing and Communication-number-18
