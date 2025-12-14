@@ -1,5 +1,5 @@
 ---
-title: "[J37] EDITORIAL:Toward Space–Air–Ground Information Networks: Next Frontier for Wireless Communications"
+title: "[J37] Toward Space–Air–Ground Information Networks: Next Frontier for Wireless Communications (EDITORIAL)"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-27-SpaceST-Toward Space–Air–Ground Information Networks Next Frontier for Wireless Communications-number-37
