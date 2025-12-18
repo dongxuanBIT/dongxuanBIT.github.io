@@ -7,13 +7,13 @@ author_profile: true
 #   - /resume
 ---
 
-Openings
+【Openings】
 ======
 * 硕士研究生（北理本部\北理珠海）
   * 研究方向：通信感知一体化，人工智能
 
 
-Contact Method
+【Contact Method】
 ======
 * E-mail:dongxuan_he@bit.edu.cn
 
