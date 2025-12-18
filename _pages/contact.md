@@ -17,10 +17,10 @@ author_profile: true
 </ol>
 
 
+<br>
+<p style="font-weight: 900;">【Contact Method】</p>
+<ol>
+    E-mail:dongxuan_he@bit.edu.cn
+</ol>
 
-
-  <p style="font-weight: 900;">电子邮箱</p>
-  <ul>
-    <li> dongxuan_he@bit.edu.cn </li>
-  </ul>
 
