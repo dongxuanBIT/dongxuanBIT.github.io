@@ -9,6 +9,12 @@ author_profile: true
 
 {% include base_path %}
 
+<br>
+<p style="font-weight: 900;">【Openings】</p>
+<ol>
+    博士研究生
+    硕士研究生
+</ol>
 
 
   <p style="font-weight: 900;">电子邮箱</p>
