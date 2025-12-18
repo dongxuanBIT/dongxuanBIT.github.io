@@ -12,9 +12,11 @@ author_profile: true
 <br>
 <p style="font-weight: 900;">【Openings】</p>
 <ol>
-    博士研究生
-    硕士研究生
+    硕士研究生（北理本部\北理珠海）
+       * Direction：ISAC, AI
 </ol>
+
+
 
 
   <p style="font-weight: 900;">电子邮箱</p>
