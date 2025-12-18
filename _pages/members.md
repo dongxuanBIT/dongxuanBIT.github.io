@@ -45,5 +45,5 @@ author_profile: true
 </ul>
 
 
-
+<img src='../images/GroupPhoto2.jpg'>
 <img src='../images/GroupPhoto.jpg'>
