@@ -27,7 +27,7 @@ redirect_from:
 <br>
 <p style="font-weight: 900;">【News】</p>
 <ol>
-    <li>2025.12.25 团队成员康子奇论文被IEEE IoT Magazine录用</li>     
+    <li>2025.12.25 团队成员杨天成被IEEE IoT Magazine录用</li>     
     <li>2025.12.09 团队获第七届全球校园人工智能算法精英大赛“智能通信”赛道国赛二等奖</li>  
     <li>2025.11.25 团队成员参与论文被IEEE TNSE录用</li>
     <li>2025.11.11 团队获第七届全球校园人工智能算法精英大赛“智能通信”赛道省赛一等奖</li>    
