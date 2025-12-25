@@ -1,5 +1,5 @@
 ---
-title: "[J38] ISAC-Enabled Low-Altitude Economy: Game-Theoretic Learning Empowered Techniques and Future Directions
+title: "[J38] ISAC-Enabled Low-Altitude Economy: Game-Theoretic Learning Empowered Techniques and Future Directions"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-12-25-IOTM-ISAC-Enabled Low-Altitude Economy Game-Theoretic Learning Empowered Techniques and Future Directions-number-38.md
