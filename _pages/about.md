@@ -27,6 +27,7 @@ redirect_from:
 <br>
 <p style="font-weight: 900;">【News】</p>
 <ol>
+    <li>2026.01.08 团队成员于泉涛论文被IEEE TGCN录用</li>    
     <li>2025.12.25 团队成员杨天成论文被IEEE IoT Magazine录用</li>     
     <li>2025.12.09 团队获第七届全球校园人工智能算法精英大赛“智能通信”赛道国赛二等奖</li>  
     <li>2025.11.25 团队成员参与论文被IEEE TNSE录用</li>
@@ -37,6 +38,5 @@ redirect_from:
     <li>2025.07.19 团队成员于泉涛论文被IEEE WCL录用</li>
     <li>2025.07.15 团队成员刘子深论文被IEEE TVT录用</li>
     <li>2025.07.01 团队成员袁明浩论文被IEEE TWC录用</li>
-    <li>2025.06.22 团队成员陈宇凡论文被IEEE TWC录用</li>
 </ol>
 
