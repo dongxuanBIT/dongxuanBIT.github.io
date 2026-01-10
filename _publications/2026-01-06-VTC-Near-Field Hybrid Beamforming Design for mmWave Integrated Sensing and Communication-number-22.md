@@ -6,7 +6,7 @@ permalink: /publication/2026-01-06-VTC-Near-Field Hybrid Beamforming Design for 
 excerpt: 'This paper investigates near-field hybrid beam-forming design for millimeter-wave (mmWave) integrated sensing and communication (ISAC) systems, where one base station (BS) equipped with large-scale antenna array simultaneously serves multiple communication users and performs target localization by exploiting the degrees of freedom in both angle and distance domains.'
 date: 2026-01-06
 venue: '2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)'
-paperurl: 'http://dongxuanBIT.github.io/files/2026-01-06-VTC-Near-Field Hybrid Beamforming Design for mmWave Integrated Sensing and Communication-number-22.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C23_Near-Field_Hybrid_Beamforming_Design_for_mmWave_Integrated_Sensing_and_Communication.pdf'
 citation: 'M. Yuan, D. He, H. Yin, Y. Liu, Z. Kang, and H. Wang, &quot;Near-Field Hybrid Beamforming Design for mmWave Integrated Sensing and Communication,&quot; in <i>Proc. 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)</i>, Chengdu, China, 2025, pp. 1-6.'
 ---
 
