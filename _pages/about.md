@@ -20,7 +20,7 @@ redirect_from:
 </ol>
 
 <br>
-<p style="font-weight: 900;">
+<p style="font-weight: 1200;">
 <a href="files/Publication List.pdf">Publication List</a>
 </p>
 
