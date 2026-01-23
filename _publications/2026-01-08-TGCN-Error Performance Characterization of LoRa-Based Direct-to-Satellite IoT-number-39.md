@@ -6,7 +6,7 @@ permalink: /publication/2026-01-08-TGCN-Error Performance Characterization of Lo
 excerpt: 'This paper provides a novel analytical framework to characterize the error performance of LoRa-based DtS-IoT systems by leveraging an empirically-verified satellite-to-ground channel model.'
 date: 2026-01-07
 venue: 'IEEE Transactions on Green Communications and Networking'
-paperurl: 'http://dongxuanBIT.github.io/files/J38-Error Performance Characterization of LoRa-Based Direct-to-Satellite IoT.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J39-Error Performance Characterization of LoRa-Based Direct-to-Satellite IoT.pdf'
 citation: 'Q. Yu, D. Mishra, H. Wang, D. He, J. Yuan, and M. Matthaiou, &quot;Error Performance Characterization of LoRa-Based Direct-to-Satellite IoT,&quot; <i>IEEE Trans. Green Commn. Netw.</i>, Early Access, 2026.'
 ---
 
