@@ -2,11 +2,11 @@
 title: "[J28] Data Association for Moving Multi-Target Sensing in Distributed OTFS Radars"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-13-IOTJ-Data Association for Moving Multi-Target Sensing in Distributed OTFS Radars-number-27
+permalink: /publication/2025-06-13-IOTJ-Data Association for Moving Multi-Target Sensing in Distributed OTFS Radars-number-28
 excerpt: 'This article investigate ISAC-based multi-target sensing with distributed OTFS radars to deliver reliable performance for UAV networks, which leverages the delay and Doppler information featured by OTFS signals to determine the range and radial velocity. Moreover, a novel optimization framework is proposed to perform data association and target sensing tasks.'
 date: 2025-06-13
 venue: 'IEEE Internet of Things Journal'
-paperurl: 'http://dongxuanBIT.github.io/files/J27_Data_Association_for_Moving_Multi-Target_Sensing_in_Distributed_OTFS_Radars.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J28_Data_Association_for_Moving_Multi-Target_Sensing_in_Distributed_OTFS_Radars.pdf'
 citation: 'B. Li, D. He and Q. Tao, &quot;Data Association for Moving Multi-Target Sensing in Distributed OTFS Radars,&quot; <i>IEEE Internet Things J.</i>, Early Access, Jun. 2025.'
 ---
 
