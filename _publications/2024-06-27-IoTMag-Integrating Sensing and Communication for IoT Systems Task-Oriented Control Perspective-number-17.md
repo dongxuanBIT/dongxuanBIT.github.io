@@ -6,7 +6,7 @@ permalink: /publication/2024-06-27-IoTMag-Integrating Sensing and Communication 
 excerpt: 'This paper provides an overview of ISAC-enabled IoT systems in terms of their framework and key technologies.'
 date: 2024-06-27
 venue: 'IEEE Internet of Things Magazine'
-paperurl: 'http://dongxuanBIT.github.io/files/J17_Integrating Sensing and Communication for IoT Systems_ Task-Oriented Control Perspective.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J17_Integrating Sensing and Communication for IoT Systems_Task-Oriented Control Perspective.pdf'
 citation: 'D. He, H. Hou, R. Jiang, X. Yu, Z. Zhao, Y. Mo, Y. Huang, W. Yu, and T. Q. S. Quek, &quot;Integrating Sensing and Communication for IoT Systems: Task-Oriented Control Perspective; <i>IEEE Internet Things Mag.</i>, vol. 7, no. 4, pp. 76–83, Jun. 2024.'
 ---
 
