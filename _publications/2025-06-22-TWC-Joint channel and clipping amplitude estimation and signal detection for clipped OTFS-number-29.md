@@ -2,11 +2,11 @@
 title: "[J29] Joint Channel and Clipping Amplitude Estimation and Signal Detection for Clipped OTFS"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-22-TWC-Joint channel and clipping amplitude estimation and signal detection for clipped OTFS-number-28
+permalink: /publication/2025-06-22-TWC-Joint channel and clipping amplitude estimation and signal detection for clipped OTFS-number-29
 excerpt: 'This paper investigates the receiver design for clipped orthogonal time frequency space (OTFS) systems, where the user devices are equipped with power amplifiers (PAs) with low dynamic range.'
 date: 2025-06-22
 venue: 'IEEE Transcations on Wireless Communications'
-paperurl: 'http://dongxuanBIT.github.io/files/J28_Joint_channel_and_clipping_amplitude_estimation_and_signal_detection_for_clipped_OTFS.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J29_Joint_channel_and_clipping_amplitude_estimation_and_signal_detection_for_clipped_OTFS.pdf'
 citation: 'Y. Chen, D. He, H. Wang, W. Yuan, and T. Q.S. Quek, &quot;Joint channel and clipping amplitude estimation and signal detection for clipped OTFS,&quot; <i>IEEE Trans. Wireless Commun.</i>, vol. 25, pp. 335-360, 2026.'
 ---
 
