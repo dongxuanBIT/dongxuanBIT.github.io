@@ -1,13 +1,13 @@
 ---
-title: "[J23] A Unified Tensor-Based Joint AUD and ISAC Parameter Estimation With Large-Scale User Access"
+title: "[J24] GNN-Assisted BiG-AMP: Joint Channel Estimation and Data Detection for Massive MIMO Receiver"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-02-25-TCCN-A Unified Tensor-Based Joint AUD and ISAC Parameter Estimation With Large-Scale User Access-number-22
-excerpt: 'This paper is about a unified tensor-based joint communication and sensing parameter estimation algorithm.'
-date: 2025-02-25
-venue: ' IEEE Transactions on Cognitive Communications and Networking'
-paperurl: 'http://dongxuanBIT.github.io/files/J22_A_Unified_Tensor-Based_Joint_AUD_and_ISAC_Parameter_Estimation_With_Large-Scale_User_Access.pdf'
-citation: 'T. Yang, D. He, H. Hou, H. Wang, H. Yin, Y. Huang, Z. Wang, and T. Q.S. Quek, &quot;A Unified Tensor-Based Joint AUD and ISAC Parameter Estimation With Large-Scale User Access,&quot; <i>IEEE Trans. Cogn. Commun. Netw.</i>, , vol. 11, no. 5, pp. 3047-3061, Oct. 2025.'
+permalink: /publication/2025-02-25-TWC-GNN-Assisted BiG-AMP Joint Channel Estimation and Data Detection for Massive MIMO Receiver-number-24
+excerpt: 'This paper is about a graph neural network (GNN)-assisted bilinear inference approach to enhance the receiver performance of the MIMO system through message passing-based joint channel estimation and data detection (JCD).'
+date: 2025-02-27
+venue: 'IEEE Transactions on Wireless Communication'
+paperurl: 'http://dongxuanBIT.github.io/files/J24_GNN-Assisted_BiG-AMP_Joint_Channel_Estimation_and_Data_Detection_for_Massive_MIMO_Receiver.pdf'
+citation: 'Z. Liu, N. Wu, D. He, W. Yuan, Y. Li, and T. Q.S. Quek, &quot;GNN-Assisted BiG-AMP: Joint Channel Estimation and Data Detection for Massive MIMO Receiver,&quot; <i>IEEE Trans. Wireless Commun.</i>, vol. 24, no. 6, pp. 4631-4646, Apr. 2025.'
 ---
 
 The integration of active user detection (AUD) and integrated sensing and communication (ISAC) enables the realization of communication and sensing functionalities over one hardware platform within the realm of ultra-massive machine-type communications (umMTC). However, the coupling of communication and sensing signals at the receiver poses challenges in accurately acquiring the respective parameters for both functionalities. In this paper, a unified tensor-based joint communication and sensing parameter estimation algorithm is proposed. First, leveraging CANDECOMP/PARAFAC decomposition (CPD), the channel model is converted into a unified tensor-based form, facilitating effective processing of the received signals. Subsequently, a two-stage CPD-based unified communication and sensing parameter estimation algorithm is developed. In the first stage, the factor matrix is estimated by utilizing the matrix subspace-based method and the Vandermonde property of the matrix. In the second stage, equivalent path parameters are extracted based on the estimated factor matrices. Furthermore, to solve the coupling problem of equivalent path parameters, a joint alternating iterative pilot-channel estimation (JAI-PCE) algorithm is proposed, effectively decoupling and accurately estimating the parameters. Simulation results verify the effectiveness of our proposed algorithm in terms of AUD, channel estimation, and radar sensing.
