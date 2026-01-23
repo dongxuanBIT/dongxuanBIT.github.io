@@ -2,11 +2,11 @@
 title: "[J11] Performance Comparison of Single-Carrier and Multi-Carrier Waveforms over Terahertz Wireless Channels"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-07-18-DCN-Performance comparison of single-carrier and multi-carrier waveforms over terahertz wireless channels-number-0
+permalink: /publication/2023-07-18-DCN-Performance comparison of single-carrier and multi-carrier waveforms over terahertz wireless channels-number-11
 excerpt: 'This paper is about waveform comparison over Tearhertz channel, where both single-carrier and multi-carrier waveforms are considered.'
 date: 2023-07-18
 venue: 'Digital Communications and Networks'
-paperurl: 'http://dongxuanBIT.github.io/files/J0_Performance_comparison_of_single_carrier_and_multi_carrier_waveformsover_terahertz_wireless_channels.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J11_Performance_comparison_of_single_carrier_and_multi_carrier_waveformsover_terahertz_wireless_channels.pdf'
 citation: 'D. He, Z. Zhang, H. Lin, Z. Wu, Y. Huang, Z. Wang. &quot;Performance Comparison of Single-Carrier and Multi-Carrier Waveforms over Terahertz Wireless Channels,&quot; <i>Digital Commun. Netw.</i>, vol. 10, no. 5, pp. 1297-1304, Oct. 2024.'
 
 ---
