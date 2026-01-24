@@ -2,11 +2,11 @@
 title: "[C17] Parameter Estimation of Sensing Targets in OTFS-ISAC: Challenges and Applications"
 collection: publications
 category: conferences
-permalink: /publication/2024-11-22-ICSIDP-Parameter Estimation of Sensing Targets in OTFS-ISAC Challenges and Applications-number-15
+permalink: /publication/2024-11-22-ICSIDP-Parameter Estimation of Sensing Targets in OTFS-ISAC Challenges and Applications-number-17
 excerpt: 'This paper is about the parameter estimation problem of sensing targets in the OTFS-ISAC system.'
 date: 2024-11-22
 venue: '2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)'
-paperurl: 'http://dongxuanBIT.github.io/files/C15_Parameter_Estimation_of_Sensing_Targets_in_OTFS_ISAC_Challenges_and_Applications.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C17_Parameter_Estimation_of_Sensing_Targets_in_OTFS_ISAC_Challenges_and_Applications.pdf'
 citation: 'G. Jiao, R. Jiang, Y. Peng and D. He, &quot;Parameter Estimation of Sensing Targets in OTFS-ISAC: Challenges and Applications,&quot; in <i>Proc. 2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)</i>, Zhuhai, China, 2024, pp. 1-6.'
 ---
 
