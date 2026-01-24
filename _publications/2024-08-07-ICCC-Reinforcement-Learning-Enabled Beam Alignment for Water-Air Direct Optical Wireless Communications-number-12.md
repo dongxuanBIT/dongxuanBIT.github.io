@@ -2,11 +2,11 @@
 title: "[C12] Reinforcement-Learning-Enabled Beam Alignment for Water-Air Direct Optical Wireless Communications"
 collection: publications
 category: conferences
-permalink: /publication/2024-08-07-ICCC-Reinforcement-Learning-Enabled Beam Alignment for Water-Air Direct Optical Wireless Communications-number-10
+permalink: /publication/2024-08-07-ICCC-Reinforcement-Learning-Enabled Beam Alignment for Water-Air Direct Optical Wireless Communications-number-12
 excerpt: 'This paper is about one novel beam alignment strategy based on deep reinforcement learning (DRL) for water-air direct optical wireless communications.'
 date: 2024-08-07
 venue: '2024 IEEE/CIC International Conference on Communications in China (ICCC)'
-paperurl: 'http://dongxuanBIT.github.io/files/C10_Reinforcement_Learning_Enabled_Beam_Alignment_for_Water_Air_Direct_Optical_Wireless_Communications.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C12_Reinforcement_Learning_Enabled_Beam_Alignment_for_Water_Air_Direct_Optical_Wireless_Communications.pdf'
 citation: 'J. Liu, T. Mao, D. He, Y. Yang, Z. Gao, and D. Zheng, &quot;Reinforcement-Learning-Enabled Beam Alignment for Water-Air Direct Optical Wireless Communications,&quot; in <i>Proc. 2024 IEEE/CIC International Conference on Communications in China (ICCC)</i>, Hangzhou, China, 2024, pp. 138-143.'
 ---
 
