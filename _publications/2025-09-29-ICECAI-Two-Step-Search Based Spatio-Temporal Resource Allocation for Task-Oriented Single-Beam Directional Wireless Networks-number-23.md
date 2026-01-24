@@ -2,11 +2,11 @@
 title: "[C23] Two-Step-Search Based Spatio-Temporal Resource Allocation for Task-Oriented Single-Beam Directional Wireless Networks"
 collection: publications
 category: conferences
-permalink: /publication/2025-09-29-ICECAI-Two-Step-Search Based Spatio-Temporal Resource Allocation for Task-Oriented Single-Beam Directional Wireless Networks-number-21
+permalink: /publication/2025-09-29-ICECAI-Two-Step-Search Based Spatio-Temporal Resource Allocation for Task-Oriented Single-Beam Directional Wireless Networks-number-23
 excerpt: 'This paper investigates  a mathematical model based on integer linear programming (ILP) is established for spatio-temporal resource allocation, with theoretical upper bounds for network capacity and VoI derived through GUROBI optimizer.'
 date: 2025-09-29
 venue: '2025 6th International Conference on Electronic Communication and Artificial Intelligence (ICECAI)'
-paperurl: 'http://dongxuanBIT.github.io/files/C22_Two-Step-Search_Based_Spatio-Temporal_Resource_Allocation_for_Task-Oriented_Single-Beam_Directional_Wireless_Networks.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C23_Two-Step-Search_Based_Spatio-Temporal_Resource_Allocation_for_Task-Oriented_Single-Beam_Directional_Wireless_Networks.pdf'
 citation: 'Z. Wu, Y. Miao, D. He, Y. Cao, H. Wang, and C. Wang, &quot;Two-Step-Search Based Spatio-Temporal Resource Allocation for Task-Oriented Single-Beam Directional Wireless Networks,&quot; in <i>Proc. 2025 6th International Conference on Electronic Communication and Artificial Intelligence (ICECAI)</i>, Chengdu, China, 2025, pp. 132-138.'
 ---
 

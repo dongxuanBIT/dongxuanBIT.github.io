@@ -2,7 +2,7 @@
 title: "[C21] Closed-Form Access Probability Analysis for LoRa-Based LEO Satellite IoT"
 collection: publications
 category: conferences
-permalink: /publication/2025-09-28-ICC-Closed-Form Access Probability Analysis for LoRa-Based LEO Satellite IoT-number-20
+permalink: /publication/2025-09-28-ICC-Closed-Form Access Probability Analysis for LoRa-Based LEO Satellite IoT-number-21
 excerpt: ' This paper provides a novel analytical framework based on spherical stochastic geometry (SG) for characterizing the uplink access probability of LoRa-based LEO satellite IoT.'
 date: 2025-09-26
 venue: '2025 IEEE International Conference on Communications (ICC)'
