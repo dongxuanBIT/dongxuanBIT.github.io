@@ -2,11 +2,11 @@
 title: "[C14] UAV-Assisted Legitimate Wireless Surveillance: Performance Analysis and Optimization"
 collection: publications
 category: conferences
-permalink: /publication/2024-10-18-ICUS-UAV-Assisted Legitimate Wireless Surveillance Performance Analysis and Optimization-number-12
+permalink: /publication/2024-10-18-ICUS-UAV-Assisted Legitimate Wireless Surveillance Performance Analysis and Optimization-number-14
 excerpt: 'This paper is about a wireless legitimate surveillance system, where a multi-antenna legitimate monitor unmanned aerial vehicle (UAV) aims to eavesdrop a suspicious communication link with the help of a jammer UAV.'
 date: 2024-10-18
 venue: '2024 IEEE International Conference on Unmanned Systems (ICUS)'
-paperurl: 'http://dongxuanBIT.github.io/files/C12_UAV_Assisted_Legitimate_Wireless_Surveillance_Performance_Analysis_and_Optimization.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C14_UAV_Assisted_Legitimate_Wireless_Surveillance_Performance_Analysis_and_Optimization.pdf'
 citation: 'D. He and H. Hou, &quot;UAV-Assisted Legitimate Wireless Surveillance: Performance Analysis and Optimization,&quot; in <i>Proc. 2024 IEEE International Conference on Unmanned Systems (ICUS)</i>, Nanjing, China, 2024, pp. 1975-1979.'
 ---
 
