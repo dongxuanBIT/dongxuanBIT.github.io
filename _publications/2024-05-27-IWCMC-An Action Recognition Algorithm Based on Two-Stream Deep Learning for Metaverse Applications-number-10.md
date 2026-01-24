@@ -2,11 +2,11 @@
 title: "[C10] An Action Recognition Algorithm Based on Two-Stream Deep Learning for Metaverse Applications"
 collection: publications
 category: conferences
-permalink: /publication/2024-05-27-IWCMC-An Action Recognition Algorithm Based on Two-Stream Deep Learning for Metaverse Applications-number-9
+permalink: /publication/2024-05-27-IWCMC-An Action Recognition Algorithm Based on Two-Stream Deep Learning for Metaverse Applications-number-10
 excerpt: 'This paper is about a residual artificial neural network with two-stream structure to further improve the accuracy of action recognition algorithm.'
 date: 2024-05-27
 venue: '2024 International Wireless Communications and Mobile Computing (IWCMC)'
-paperurl: 'http://dongxuanBIT.github.io/files/C09_An_Action_Recognition_Algorithm_Based_on_Two-Stream_Deep_Learning_for_Metaverse_Applications.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C10_An_Action_Recognition_Algorithm_Based_on_Two-Stream_Deep_Learning_for_Metaverse_Applications.pdf'
 citation: 'J. Liu, T. Mao, Y. Huang and D. He, &quot;An Action Recognition Algorithm Based on Two-Stream Deep Learning for Metaverse Applications,&quot; in <i>Proc. 2024 International Wireless Communications and Mobile Computing (IWCMC)</i>, Ayia Napa, Cyprus, 2024, pp. 639-642.'
 ---
 
