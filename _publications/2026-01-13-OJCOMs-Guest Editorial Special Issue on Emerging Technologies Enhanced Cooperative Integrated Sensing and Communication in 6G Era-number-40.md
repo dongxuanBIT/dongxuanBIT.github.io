@@ -1,5 +1,5 @@
 ---
-title: "[J40] Error Performance Characterization of LoRa-Based Direct-to-Satellite IoT"
+title: "[J40] Guest Editorial Special Issue on Emerging Technologies Enhanced Cooperative Integrated Sensing and Communication in 6G Era"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-13-OJCOMs-Guest Editorial Special Issue on Emerging Technologies Enhanced Cooperative Integrated Sensing and Communication in 6G Era-number-40
