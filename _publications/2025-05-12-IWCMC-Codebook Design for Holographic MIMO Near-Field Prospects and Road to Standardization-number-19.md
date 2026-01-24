@@ -2,11 +2,11 @@
 title: "[C19] Codebook Design for Holographic MIMO Near-Field Prospects and Road to Standardization"
 collection: publications
 category: conferences
-permalink: /publication/2025-05-12-IWCMC-Codebook Design for Holographic MIMO Near-Field Prospects and Road to Standardization-number-17
+permalink: /publication/2025-05-12-IWCMC-Codebook Design for Holographic MIMO Near-Field Prospects and Road to Standardization-number-19
 excerpt: 'This article investigates the codebook solution for HMIMO, unmasking a number of challenges intrinsic in the near-field context and limitations of applying codebooks specified in current standards.'
 date: 2025-05-12
 venue: '2025 International Wireless Communications and Mobile Computing (IWCMC)'
-paperurl: 'http://dongxuanBIT.github.io/files/C17_Codebook_Design_for_Holographic_MIMO_Near-Field_Prospects_and_Road_to_Standardization.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C19_Codebook_Design_for_Holographic_MIMO_Near-Field_Prospects_and_Road_to_Standardization.pdf'
 citation: 'Y. Chen, D. He, S. Li and T. Mao, &quot;DRL-Based Service Function Chains Embedding Through Network Function Virtualization in STINs,&quot; in <i>Proc. 2025 International Wireless Communications and Mobile Computing (IWCMC)</i>, Abu Dhabi, United Arab Emirates, 2025, pp. 1084-1090.'
 ---
 
