@@ -2,11 +2,11 @@
 title: "[C15] A Unified Tensor-Based Joint Communication and Sensing Parameter Estimation for ISAC with Large-Scale User Access"
 collection: publications
 category: conferences
-permalink: /publication/2024-11-22-ICSIDP-A Unified Tensor-Based Joint Communication and Sensing Parameter Estimation for ISAC with Large-Scale User Access-number-14
+permalink: /publication/2024-11-22-ICSIDP-A Unified Tensor-Based Joint Communication and Sensing Parameter Estimation for ISAC with Large-Scale User Access-number-15
 excerpt: 'This paper is about the combination of active user detection (AUD) and integrated sensing and communication (ISAC).'
 date: 2024-11-22
 venue: '2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)'
-paperurl: 'http://dongxuanBIT.github.io/files/C14_A_Unified_Tensor-Based_Joint_Communication_and_Sensing_Parameter_Estimation_for_ISAC_with_Large-Scale_User_Access.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C15_A_Unified_Tensor-Based_Joint_Communication_and_Sensing_Parameter_Estimation_for_ISAC_with_Large-Scale_User_Access.pdf'
 citation: 'T. Yang, D. He, H. Hou, H. Wang, Y. Huang, and Z. Wang, &quot;A Unified Tensor-Based Joint Communication and Sensing Parameter Estimation for ISAC with Large-Scale User Access,&quot; in <i>Proc. 2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)</i>, Zhuhai, China, 2024, pp. 1-6.'
 ---
 
