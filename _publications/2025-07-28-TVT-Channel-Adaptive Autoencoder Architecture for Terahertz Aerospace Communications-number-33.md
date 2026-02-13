@@ -7,7 +7,7 @@ excerpt: 'This paper proposes a dynamic autoencoder system based on channel pred
 date: 2025-07-28
 venue: 'IEEE Transactions on Vehicular Technology'
 paperurl: 'http://dongxuanBIT.github.io/files/J33_Channel-Adaptive_Autoencoder_Architecture_for_Terahertz_Aerospace_Communications.pdf'
-citation: 'Y. Huang, T. Mao, D. He, Q. Wang, C. Han, and Z. Wang, &quot;Channel-Adaptive Autoencoder Architecture for Terahertz Aerospace Communications,&quot; <i>IEEE Trans. Veh. Technol.</i>, Early Access, Aug. 2025.'
+citation: 'Y. Huang, T. Mao, D. He, Q. Wang, C. Han, and Z. Wang, &quot;Channel-Adaptive Autoencoder Architecture for Terahertz Aerospace Communications,&quot; <i>IEEE Trans. Veh. Technol.</i>, vol. 75, no. 2, pp. 3288-3293, Feb. 2026.'
 ---
 
 The terahertz (THz) aerospace communication has garnered increasing attention due to its potential to meet the ultra-broadband transmission demand of space-air backbone networks. However, several practical issues have to be considered, which include the complex channel characteristics, antenna misalignment, hardware imperfections, etc. To tackle these issues, a dynamic autoencoder system based on channel prediction is proposed to enhance its robustness against complicated dynamic channel fading and distortions in aerospace THz communication systems. Specially, a new architecture with a set of autoencoders and fitting networks is proposed for resilient transmission against the strong Doppler shifts and hardware imperfections. Besides, a single point channel prediction model is utilized to forecast the variations of the channel and then subsequently select the suitable autoencoder. Numerical results demonstrate the superiority of the proposed dynamic autoencoder architecture under an intricate dynamic THz channel.
