@@ -11,7 +11,7 @@ redirect_from:
 
 获得2023中国卫星导航定位协会科技进步一等奖、2024年中国指控学会科技进步一等奖、2024中国发明协会创业创新奖一等奖、2024年中国卫星导航定位协会创新应用奖白金奖、IEEE IWCMC 2025 最佳论文奖、IEEE ICSIDP 2024 最佳论文奖、2021年IEEE WIRELESS COMMUNICATIONS LETTERS 优秀审稿人。
 
-担任中国指挥与控制学会电磁频谱安全与控制专业委员会委员、中国卫星导航定位协会青年工作委员会委员、IEEE Vehicular Technology Society Committee on Drones 委员、Space: Science & Technology 客座主编、IEEE Open Journal of the Communications Society 客座主编、MDPI Electronics 客座主编、IEEE International Conference on Unmanned Systems 分会主席。
+担任中国指挥与控制学会电磁频谱安全与控制专业委员会委员、中国卫星导航定位协会青年工作委员会委员、未来移动通信论坛无蜂窝网络工作组数据服务任务组（TG5）副组长、IEEE Vehicular Technology Society Committee on Drones 委员、Space: Science & Technology 客座主编、IEEE Open Journal of the Communications Society 客座主编、MDPI Electronics 客座主编、IEEE International Conference on Unmanned Systems 分会主席。
 
 <br>
 <p style="font-weight: 900;">【Research Directions】</p>
