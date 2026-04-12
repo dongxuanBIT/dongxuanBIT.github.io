@@ -46,6 +46,7 @@ Other Experience
 * Others
   * 中国卫星导航定位协会青年工作委员会委员
   * 中国指挥与控制学会电磁频谱安全与控制专业委员会委员
+  * 未来移动通信论坛无蜂窝网络工作组数据服务任务组（TG5）副组长
   * IEEE Vehicular Technology Society Committee on Drones 委员  
 
 
