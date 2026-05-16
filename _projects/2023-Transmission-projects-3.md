@@ -1,7 +1,7 @@
 ---
 title: "高速传输技术"
 collection: projects
-type: "仿真+硬件"
+type: "理论+硬件实现"
 permalink: /projects/2023-Transmission-projects-3
 ---
 
