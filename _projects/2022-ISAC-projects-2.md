@@ -1,7 +1,7 @@
 ---
 title: "通信感知一体化"
 collection: projects
-type: "仿真+硬件"
+type: "理论+硬件实现"
 permalink: /projects/2022-ISAC-projects-2
 ---
 

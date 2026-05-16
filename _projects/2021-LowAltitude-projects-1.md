@@ -1,7 +1,7 @@
 ---
 title: "空天智能网联技术"
 collection: projects
-type: "仿真+硬件"
+type: "仿真+硬件实现"
 permalink: /projects/2021-LowAltitude-projects-1
 ---
 
