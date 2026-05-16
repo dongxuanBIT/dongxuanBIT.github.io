@@ -2,7 +2,7 @@
 title: "低空智能网联技术"
 collection: projects
 type: "仿真+硬件，2023-至今"
-permalink: /projects/2021-22-PDF-projects-2
+permalink: /projects/2021-LowAltitude-projects-1
 venue: "民口+军口"
 ---
 
