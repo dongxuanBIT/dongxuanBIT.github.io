@@ -1,7 +1,7 @@
 ---
 title: "概述"
 collection: projects
-type: "围绕满足高速传输、通感一体化、空天智能网联开展研究"
+type: "围绕高速传输、通感一体化、空天智能网联等开展研究"
 permalink: /projects/2021-Introduction-projects-4
 ---
 
