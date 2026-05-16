@@ -1,7 +1,6 @@
 ---
 title: "概述"
 collection: projects
-type: " ， "
 permalink: /projects/2021-Introduction-projects-4
 ---
 
