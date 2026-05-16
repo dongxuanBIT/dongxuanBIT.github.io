@@ -3,7 +3,6 @@ title: "高速传输技术"
 collection: projects
 type: "仿真+硬件，2023-至今"
 permalink: /projects/2023-Transmission-projects-3
-venue: " "
 ---
 
 围绕满足未来低空网联需求。
