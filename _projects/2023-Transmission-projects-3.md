@@ -5,7 +5,7 @@ type: "仿真+硬件，2023-至今"
 permalink: /projects/2023-Transmission-projects-3
 ---
 
-围绕满足未来低空网联需求。
+团队聚焦于可靠传输的相关研究。
 
 研究内容
 ======
