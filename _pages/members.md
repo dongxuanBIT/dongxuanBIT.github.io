@@ -45,6 +45,6 @@ author_profile: true
     <li>刘人杰（2024-2026，Master Student）, 甲骨文（中国）软件系统有限公司 </li>        
 </ul>
 
-<img src='../images/GroupPhoto3.jpg' width="500">
-<img src='../images/GroupPhoto2.jpg' width="500">
-<img src='../images/GroupPhoto.jpg' width="500">
+<img src='../images/GroupPhoto3.jpg' width="400">
+<img src='../images/GroupPhoto2.jpg' width="400">
+<img src='../images/GroupPhoto.jpg' width="400">
