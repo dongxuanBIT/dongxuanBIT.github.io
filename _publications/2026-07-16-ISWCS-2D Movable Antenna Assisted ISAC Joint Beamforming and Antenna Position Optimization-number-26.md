@@ -2,7 +2,7 @@
 title: "[C26] 2D Movable Antenna Assisted ISAC: Joint Beamforming and Antenna Position Optimization"
 collection: publications
 category: conferences
-permalink: /publication/2026-07-16-ISWCS-2D Movable Antenna Assisted ISAC: Joint Beamforming and Antenna Position Optimization-number-26
+permalink: /publication/2026-07-16-ISWCS-2D Movable Antenna Assisted ISAC Joint Beamforming and Antenna Position Optimization-number-26
 excerpt: 'This paper studies a two-dimensional (2D) movable antenna (MA) assisted integrated sensing and communications (ISAC) system.'
 date: 2026-07-16
 venue: '2026 20th International Symposium on Wireless Communication Systems (ISWCS)'
