@@ -10,10 +10,8 @@
  *
 */
 
-.page__content {
-  max-width: 1200px !important; 
-  margin-left: auto;
-  margin-right: auto;
+.wrapper {
+  max-width: 1400px !important; 
 }
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
