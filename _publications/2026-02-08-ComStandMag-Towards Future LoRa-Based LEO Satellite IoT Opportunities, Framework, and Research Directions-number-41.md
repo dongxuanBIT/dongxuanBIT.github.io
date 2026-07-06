@@ -6,7 +6,7 @@ permalink: /publication/2026-02-08-ComStandMag-Towards Future LoRa-Based LEO Sat
 excerpt: 'This paper investigates LoRa-based LEO satellite IoT, focusing on its development opportunities, network framework and future research directions..'
 date: 2026-02-08
 venue: 'IEEE Communications Standards Magazine'
-paperurl: 'http://dongxuanBIT.github.io/files/J41_Guest_Editorial_Special_Issue_on_Emerging_Technologies_Enhanced_Cooperative_Integrated_Sensing_and_Communication_in_6G_Era.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J41-Toward_Future_LoRa-Based_LEO_Satellite_IoT_Opportunities_Framework_and_Research_Directions.pdf'
 citation: 'Q. Yu, D. He, H. Hou, and H. Wang, &quot;Towards Future LoRa-Based LEO Satellite IoT Opportunities, Framework, and Research Directions,&quot; <i> IEEE Commun. Stand. Mag.</i>, Early Access, 2026.'
 ---
 
