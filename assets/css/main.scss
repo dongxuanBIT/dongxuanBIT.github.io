@@ -10,7 +10,10 @@
  *
 */
 
-
+.archive__item {
+  line-height: 1.8 !important;   // 1.8 倍行距，阅读舒适（默认通常是1.4或1.5）
+  margin-bottom: 1.2rem !important; // 每条记录下方增加间距，告别“挤在一起”
+}
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
