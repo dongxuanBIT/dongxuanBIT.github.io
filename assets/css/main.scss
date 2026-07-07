@@ -15,6 +15,19 @@
   margin-bottom: 1.2rem !important; // 每条记录下方增加间距，告别“挤在一起”
 }
 
+.archive__item p,
+.archive__item .item__details {
+  line-height: 1.8 !important;
+  margin-bottom: 0.5rem !important; // 调整段落间的距离
+}
+
+
+.archive-single {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  border-bottom: 1px solid #f0f0f0; // 可选：加一条浅浅的分隔线，视觉上进一步区隔
+}
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
