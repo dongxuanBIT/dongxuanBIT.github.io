@@ -10,24 +10,6 @@
  *
 */
 
-.archive__item {
-  line-height: 1.8 !important;   // 1.8 倍行距，阅读舒适（默认通常是1.4或1.5）
-  margin-bottom: 1.2rem !important; // 每条记录下方增加间距，告别“挤在一起”
-}
-
-.archive__item p,
-.archive__item .item__details {
-  line-height: 1.8 !important;
-  margin-bottom: 0.5rem !important; // 调整段落间的距离
-}
-
-
-.archive-single {
-  padding-top: 0.5rem !important;
-  padding-bottom: 0.5rem !important;
-  border-bottom: 1px solid #f0f0f0; // 可选：加一条浅浅的分隔线，视觉上进一步区隔
-}
-
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -57,3 +39,23 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Custom overrides for publication spacing (放在最后才最稳妥)
+   ========================================================================== */
+.archive__item {
+  line-height: 1.8 !important;
+  margin-bottom: 1.2rem !important;
+}
+
+.archive__item p,
+.archive__item .item__details {
+  line-height: 1.8 !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.archive-single {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  border-bottom: 1px solid #f0f0f0;
+}
