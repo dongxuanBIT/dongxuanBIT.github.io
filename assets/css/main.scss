@@ -60,12 +60,19 @@
   border-bottom: 1px solid #f0f0f0;
 }
 
-body.layout--archive .main,
-body.layout--archive .page,
-body.layout--archive .page__content,
-body.layout--archive .archive,
-body.layout--archive .wrapper {
+.layout--archive {
+  .page {
     max-width: 1400px !important;
+  }
+  .page__content {
+    max-width: 100% !important;
     padding-left: 20px !important;
     padding-right: 20px !important;
+  }
+  .archive__item {
+    max-width: 100% !important;
+  }
+  .archive__item-title {
+    max-width: 100% !important;
+  }
 }
