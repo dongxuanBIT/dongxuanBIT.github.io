@@ -41,8 +41,10 @@
 @import "print";
 
 /* ==========================================================================
-   Custom overrides for publication spacing
+   Custom overrides for publication spacing and page width
    ========================================================================== */
+
+/* 1. 调整出版条目行距和段落间距 */
 .archive__item {
   line-height: 1.5 !important;
   margin-bottom: 1.2rem !important;
@@ -54,25 +56,35 @@
   margin-bottom: 0.5rem !important;
 }
 
+/* 2. 为每条记录添加浅色分隔线，并调整内边距 */
 .archive-single {
   padding-top: 0.5rem !important;
   padding-bottom: 0.5rem !important;
   border-bottom: 1px solid #f0f0f0;
 }
 
-.layout--archive {
-  .page {
-    max-width: 1400px !important;
-  }
-  .page__content {
-    max-width: 100% !important;
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-  }
-  .archive__item {
-    max-width: 100% !important;
-  }
-  .archive__item-title {
-    max-width: 100% !important;
-  }
+/* 3. 拉宽整个 Publications 页面（包括所有内容区） */
+.page {
+  max-width: 1400px !important;
+}
+
+.page__content {
+  max-width: 100% !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+/* 4. 强制归档条目（包括 archive-single 和 archive__item）撑满宽度，去除多余内边距 */
+.archive__item,
+.archive-single {
+  max-width: 100% !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* 5. 确保标题和摘要等子元素也占满宽度 */
+.archive__item-title,
+.archive__item-excerpt,
+.archive__item p {
+  max-width: 100% !important;
 }
