@@ -41,7 +41,7 @@
 @import "print";
 
 /* ==========================================================================
-   Custom overrides for publication spacing (放在最后才最稳妥)
+   Custom overrides for publication spacing
    ========================================================================== */
 .archive__item {
   line-height: 1.5 !important;
@@ -60,7 +60,9 @@
   border-bottom: 1px solid #f0f0f0;
 }
 
-// 只针对 Publications 归档页面（如果你的页面 Layout 是 archive）
-.page--archive .page__content {
-  max-width: 2000px !important;
+/* ==========================================================================
+   Custom overrides for page width (拉宽 Publications 页面)
+   ========================================================================== */
+.layout--archive .page__content {
+  max-width: 1200px !important;
 }
