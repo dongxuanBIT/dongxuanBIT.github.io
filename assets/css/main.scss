@@ -60,16 +60,12 @@
   border-bottom: 1px solid #f0f0f0;
 }
 
-/* ==========================================================================
-   Custom overrides for page width (拉宽 Publications 页面)
-   ========================================================================== */
-.layout--archive .page__content {
-  max-width: 2200px !important;
-}
-
-.layout--archive .page,
-.layout--archive .wrapper,
-.layout--archive .page__content,
-.layout--archive .page__inner-wrap {
-  max-width: 1000px !important;
+body.layout--archive .main,
+body.layout--archive .page,
+body.layout--archive .page__content,
+body.layout--archive .archive,
+body.layout--archive .wrapper {
+    max-width: 1400px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
 }
