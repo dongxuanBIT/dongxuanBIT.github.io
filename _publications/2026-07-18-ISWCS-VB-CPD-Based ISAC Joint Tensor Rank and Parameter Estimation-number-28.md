@@ -2,7 +2,7 @@
 title: "[C28] VB-CPD-Based ISAC: Joint Tensor Rank and Parameter Estimation"
 collection: publications
 category: conferences
-permalink: /publication/2026-07-18-ISWCS-VB-CPD-Based ISAC Joint Tensor Rank and Parameter Estimation-number-28.md
+permalink: /publication/2026-07-18-ISWCS-VB-CPD-Based ISAC Joint Tensor Rank and Parameter Estimation-number-28
 excerpt: 'This paper investigates a unified multi-dimensional tensor modeling and parameter estimation framework.'
 date: 2026-07-16
 venue: '2026 20th International Symposium on Wireless Communication Systems (ISWCS)'

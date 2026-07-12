@@ -2,7 +2,7 @@
 title: "[C29] RA-Enabled Multi-User Multi-Target ISAC Systems With Communication-Centric Optimization"
 collection: publications
 category: conferences
-permalink: /publication/2026-07-19-ISWCS-RA-Enabled Multi-User Multi-Target ISAC Systems With Communication-Centric Optimization-number-29.md
+permalink: /publication/2026-07-19-ISWCS-RA-Enabled Multi-User Multi-Target ISAC Systems With Communication-Centric Optimization-number-29
 excerpt: 'This paper investigates an RA-enabled integrated sensing and communication (ISAC) system, which can serve multiple communication users and sense multiple targets simultaneously.'
 date: 2026-07-16
 venue: '2026 20th International Symposium on Wireless Communication Systems (ISWCS)'
