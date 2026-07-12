@@ -6,7 +6,7 @@ permalink: /publication/2026-07-17-ISWCS-Beampattern Gain Optimization for Near-
 excerpt: 'This paper investigates a near-field wideband ISAC system, which serves multiple communication users and sense one target simultaneously.'
 date: 2026-07-16
 venue: '2026 20th International Symposium on Wireless Communication Systems (ISWCS)'
-paperurl: 'http://dongxuanBIT.github.io/files/C25_On_the_Analytical_Error_Performance_of_LoRa-Based_LEO_Satellite_IoT.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C27.pdf'
 citation: 'H. Zhao, D. He, H. Wang, and Y. Da, &quot;Beampattern Gain Optimization for Near-Field Wideband Multi-User ISAC Systems,&quot; in <i>Proc. 2026 20th International Symposium on Wireless Communication Systems (ISWCS)</i>, Gold Coast, Australia, 2026, pp. 1-1.'
 ---
 

@@ -6,7 +6,7 @@ permalink: /publication/2026-07-16-ISWCS-2D Movable Antenna Assisted ISAC Joint 
 excerpt: 'This paper studies a two-dimensional (2D) movable antenna (MA) assisted integrated sensing and communications (ISAC) system.'
 date: 2026-07-16
 venue: '2026 20th International Symposium on Wireless Communication Systems (ISWCS)'
-paperurl: 'http://dongxuanBIT.github.io/files/C25_On_the_Analytical_Error_Performance_of_LoRa-Based_LEO_Satellite_IoT.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/C26.pdf'
 citation: 'R. Lu, Y. Zhang, D. He, and H. Wang, &quot;2D Movable Antenna Assisted ISAC: Joint Beamforming and Antenna Position Optimization,&quot; in <i>Proc. 2026 20th International Symposium on Wireless Communication Systems (ISWCS)</i>, Gold Coast, Australia, 2026, pp. 1-1.'
 ---
 
