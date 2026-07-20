@@ -27,6 +27,7 @@ redirect_from:
 <br>
 <p style="font-weight: 900;">【News】</p>
 <ol>
+    <li>2026.07.20 团队成员于泉涛论文被 IEEE WCL录用</li> 
     <li>2026.02.08 团队成员于泉涛论文被 IEEE Commun. Stand. Mag.录用</li> 
     <li>2026.01.08 团队成员于泉涛论文被IEEE TGCN录用</li>    
     <li>2025.12.25 团队成员杨天成论文被IEEE IoT Magazine录用</li>     
