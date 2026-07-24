@@ -6,7 +6,7 @@ permalink: /publication/2026-07-20-WCL-CA-ResNet A Deep Learning Based Framework
 excerpt: 'This letter proposes a novel deep learning based framework for uplink signal detection of Long-Range (LoRa) based low Earth orbit (LEO) satellite Internet of Things (IoT).'
 date: 2026-07-20
 venue: 'IEEE Wireless Communications Letters'
-paperurl: 'http://dongxuanBIT.github.io/files/J41-Toward_Future_LoRa-Based_LEO_Satellite_IoT_Opportunities_Framework_and_Research_Directions.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/J42_CA-ResNet_A_Deep_Learning_Based_Framework_for_Uplink_Signal_Detection_of_LoRa-Based_LEO_Satellite_IoT.pdf'
 citation: 'Q. Yu, D. He, and H. Wang, &quot;CA-ResNet: A Deep Learning Based Framework for Uplink Signal Detection of LoRa-Based LEO Satellite IoT,&quot; <i> IEEE Wireless Commun. Lett.</i>, Early Access, 2026.'
 ---
 
