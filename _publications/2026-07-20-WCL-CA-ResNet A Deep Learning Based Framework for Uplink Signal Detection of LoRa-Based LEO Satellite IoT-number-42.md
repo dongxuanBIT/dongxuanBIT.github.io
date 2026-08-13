@@ -7,7 +7,7 @@ excerpt: 'This letter proposes a novel deep learning based framework for uplink 
 date: 2026-07-20
 venue: 'IEEE Wireless Communications Letters'
 paperurl: 'http://dongxuanBIT.github.io/files/J42_CA-ResNet_A_Deep_Learning_Based_Framework_for_Uplink_Signal_Detection_of_LoRa-Based_LEO_Satellite_IoT.pdf'
-citation: 'Q. Yu, D. He, and H. Wang, &quot;CA-ResNet: A Deep Learning Based Framework for Uplink Signal Detection of LoRa-Based LEO Satellite IoT,&quot; <i> IEEE Wireless Commun. Lett.</i>, Early Access, 2026.'
+citation: 'Q. Yu, D. He, and H. Wang, &quot;CA-ResNet: A Deep Learning Based Framework for Uplink Signal Detection of LoRa-Based LEO Satellite IoT,&quot; <i> IEEE Wireless Commun. Lett.</i>, vol. 15, pp. 4513 - 4517, 2026.'
 ---
 
 This letter proposes a novel deep learning based framework for uplink signal detection of Long-Range (LoRa) based low Earth orbit (LEO) satellite Internet of Things (IoT). First, a spherical stochastic geometry based analytical framework is developed, where the terrestrial LoRa end-devices are modeled through a Poisson point process within the satellite coverage. Then, a complex-aware residual network (CA-ResNet) is proposed, which fully leverages the power differences, as well as the relative time and frequency offsets between the desired and interfering signals to achieve implicit interference cancellation. Simulation results demonstrate that the proposed scheme outperforms the traditional non-coherent detection.
