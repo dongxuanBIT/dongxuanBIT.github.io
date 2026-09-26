@@ -14,7 +14,8 @@ author_profile: true
     <li>袁明浩：研究方向包括 Integrated sensing and communication, massive MIMO, and mmWave communications. </li>
     <li>杨天成：研究方向包括 Unmanned aerial vehicle communication, Integrated sensing and communication, Low-altitude economy. </li>
     <li>赵鸿烨：研究方向包括 Integrated communication and navigation. </li>
-    <li>马伯源：研究方向包括 Integrated sensing and communication. </li>
+    <li>李黎：研究方向包括 Integrated sensing and communication. </li>   
+    <li>马伯源：研究方向包括 Radio-Aware Intelligent Navigation. </li>
     <li>刘雨航：研究方向包括 Integrated sensing and communication. </li>
 </ul>
 
@@ -26,7 +27,7 @@ author_profile: true
     <li>鲁瑞麒：研究方向包括 Integrated sensing and communication, Movable antenna. </li>
     <li>李典：研究方向包括 Integrated sensing and communication. </li>
     <li>赵超越：研究方向包括 Integrated sensing and navigation. </li>
-    <li>盛楠：研究方向包括 Integrated sensing and communication. </li>
+    <li>盛楠：研究方向包括 Integrated sensing and communication, Radio-Aware Intelligent Navigation. </li>
     <li>赵方策：研究方向包括 Integrated sensing and communication, and Rotatable Antenna. </li>  
     <li>秦婉莹：研究方向包括 AI empowered communication. </li> 
     <li>陈函杰：研究方向包括 AI empowered communication. </li> 
