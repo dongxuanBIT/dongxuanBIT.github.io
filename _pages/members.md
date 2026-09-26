@@ -15,7 +15,7 @@ author_profile: true
     <li>杨天成：研究方向包括 Unmanned aerial vehicle communication, Integrated sensing and communication, Low-altitude economy. </li>
     <li>赵鸿烨：研究方向包括 Integrated communication and navigation. </li>
     <li>李黎：研究方向包括 Integrated sensing and communication. </li>   
-    <li>马伯源：研究方向包括 Radio-Aware Intelligent Navigation. </li>
+    <li>马伯源：研究方向包括 Radio-aware intelligent navigation. </li>
     <li>刘雨航：研究方向包括 Integrated sensing and communication. </li>
 </ul>
 
