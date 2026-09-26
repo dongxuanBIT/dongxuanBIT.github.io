@@ -1,0 +1,13 @@
+---
+title: "[J44] Message Passing-Based Channel Estimation and Symbol Detection for Clipped OCDM Systems"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-10-25-TWC-Message Passing-Based Channel Estimation and Symbol Detection for Clipped OCDM Systems-number-44
+excerpt: 'This paper proposes a hybrid iterative receiver that combines clipping expectation propagation (CEP) and variance modification generalized approximate message passing (VMGAMP) for clipped OCDM systems.'
+date: 2026-08-10
+venue: 'IEEE Transactions on Wireless Communications'
+paperurl: 'http://dongxuanBIT.github.io/files/J43_Traffic-Aware_Joint_Clustering_and_Routing_in_Energy-Harvesting_Industrial_Internet_of_Things.pdf'
+citation: 'M. Hu, N. Wu, D. He, H. Li, and T. Q.S. Quek, &quot;Message Passing-Based Channel Estimation and Symbol Detection for Clipped OCDM Systems,&quot; <i> IEEE Trans. Wireless Commun.</i>, Early Access, 2026.'
+---
+
+Signal clipping effectively mitigates the high peak-to-average power ratio (PAPR) problem in multi-carrier systems like orthogonal chirp division multiplexing (OCDM). However, the nonlinear distortion induced by clipping severely degrades the performance of both channel estimation and symbol detection. To address this challenge, we propose a hybrid iterative receiver that combines clipping expectation propagation (CEP) and variance modification generalized approximate message passing (VMGAMP) for clipped OCDM systems. Specifically, by factorizing the a posteriori probability of the received signal, a unified factor graph is constructed, where the clipping factor serves as a gate block that schedules the message flow according to clipping state. Subsequently, a CEP-based channel estimator is developed, in which a clipping approach based on signal reconstruction is designed under the gate mechanism. To reduce computational complexity of moment matching, a truncated adaptive uniform-grid quadrature is employed. Furthermore, a VMGAMP-based detector is designed for symbol detection, alongside a refined VMGAMP (rVMGAMP) variant tailored for severe clipping scenarios. Variance modification is adopted to refine the variance estimation associated with the clipping distortion. Additionally, a Cramer-Rao lower bound (CRLB) is derived to provide a theoretical benchmark for the CEP-based estimator. Numerical results demonstrate that the pro posed CEP-VMGAMP-based iterative receiver significantly outperforms baseline schemes for clipped OCDM systems.
