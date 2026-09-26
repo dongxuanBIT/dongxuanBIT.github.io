@@ -6,7 +6,7 @@ permalink: /publication/2026-10-25-TWC-Message Passing-Based Channel Estimation 
 excerpt: 'This paper proposes a hybrid iterative receiver that combines clipping expectation propagation (CEP) and variance modification generalized approximate message passing (VMGAMP) for clipped OCDM systems.'
 date: 2026-08-10
 venue: 'IEEE Transactions on Wireless Communications'
-paperurl: 'http://dongxuanBIT.github.io/files/J43_Traffic-Aware_Joint_Clustering_and_Routing_in_Energy-Harvesting_Industrial_Internet_of_Things.pdf'
+paperurl: 'http://dongxuanBIT.github.io/files/xx.pdf'
 citation: 'M. Hu, N. Wu, D. He, H. Li, and T. Q.S. Quek, &quot;Message Passing-Based Channel Estimation and Symbol Detection for Clipped OCDM Systems,&quot; <i> IEEE Trans. Wireless Commun.</i>, Early Access, 2026.'
 ---
 
